@@ -21,4 +21,13 @@ redirect_from:
 {% include_relative include/edu.md %}
 
 
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=LVRpiHPJ9EccKrDygKWKGugARtYro9yYdqJPLypNKYE"></script>
+<div id="clustr_globe_container" style="width: 300px; height: 300px;">
+    <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=LVRpiHPJ9EccKrDygKWKGugARtYro9yYdqJPLypNKYE"></script>
+</div>
+
+<style>
+    #clustr_globe_container {
+        width: 100px; 
+        height: 100px; 
+    }
+</style>
