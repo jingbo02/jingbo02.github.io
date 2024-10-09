@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Jingbo Zhou"
-description              : "Ph.D. student at Westlake University and Zhejiang University. Focusing on GNN and AI4Science "
+description              : "Ph.D. student at Westlake University and Zhejiang University. Focusing on Foundation Model and AI4Science "
 repository               : "jingbo02/jingbo02.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Jingbo Zhou"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Westlake University & Zhejiang University"
+  bio              : "Westlake University, Zhejiang University"
   location         : "Hangzhou, China"
   employer         :
   pubmed           : 
