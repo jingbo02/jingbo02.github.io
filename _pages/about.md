@@ -12,10 +12,9 @@ redirect_from:
 
 {% include_relative include/intro.md %}
 
-{% include_relative include/news.md %}
-
 {% include_relative include/research.md %}
 
+{% include_relative include/news.md %}
 
 {% include_relative include/pub.md %}
 
