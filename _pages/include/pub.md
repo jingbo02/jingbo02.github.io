@@ -5,7 +5,7 @@
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src="../images/nips24/novobench.png" alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src="../images/nips24/novobench.png" alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
  <dd><a href="https://arxiv.org/abs/2406.11906"><strong> NovoBench: Benchmarking Deep Learning-based \emph{De Novo} Sequencing Methods in Proteomics
@@ -14,7 +14,7 @@
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src="../images/nips24/psnr.png" alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src="../images/nips24/psnr.png" alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
  <dd><a href="https://neurips.cc/virtual/2024/poster/94864"><strong> Deep Graph Neural Networks via Posteriori-Sampling-based Node-Adaptative Residual Module
@@ -23,7 +23,7 @@
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src="../images/nips24/adanovo.PNG" alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src="../images/nips24/adanovo.PNG" alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
  <dd><a href="https://arxiv.org/abs/2403.07013"><strong> AdaNovo: Adaptive \emph{De Novo} Peptide Sequencing with Conditional Mutual Information
