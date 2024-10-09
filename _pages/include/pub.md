@@ -4,8 +4,8 @@
 **&dagger; Equal Contribution**  
 
 <dl>
-  <dt><img align="left" width="200" height="200" 
-hspace="10" wspace="20" src="../images/nips24/novobench.PNG">
+  <dt><img align="left" width="400" 
+hspace="10" wspace="20" src="../images/nips24/novobench.png">
 </dt>
   <dd><a href="https://arxiv.org/abs/2406.11906"><strong> NovoBench: Benchmarking Deep Learning-based \emph{De Novo} Sequencing Methods in Proteomics
 </strong></a></dd>
