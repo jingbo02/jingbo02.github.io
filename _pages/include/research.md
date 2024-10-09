@@ -1,6 +1,6 @@
-### 🔎 Research 
+# 🔎 Research 
 
-"Man is the measure of all things"
+**"Man is the measure of all things"**
 
 a) Graph Machine Learning
 
