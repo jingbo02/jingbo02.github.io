@@ -20,6 +20,7 @@ redirect_from:
 
 {% include_relative include/edu.md %}
 
+{% include_relative include/service.md %}
 
 <div id="clustr_globe_container" style="width: 300px; height: 300px;">
     <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=LVRpiHPJ9EccKrDygKWKGugARtYro9yYdqJPLypNKYE"></script>
