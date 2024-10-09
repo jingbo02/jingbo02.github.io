@@ -14,7 +14,7 @@
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src="../images/nips24/psnr.PNG" alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src="../images/nips24/psnr.png" alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
  <dd><a href="https://neurips.cc/virtual/2024/poster/94864"><strong> Deep Graph Neural Networks via Posteriori-Sampling-based Node-Adaptative Residual Module
