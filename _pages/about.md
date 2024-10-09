@@ -27,7 +27,7 @@ redirect_from:
 
 <style>
     #clustr_globe_container {
-        width: 100px; 
-        height: 100px; 
+        width: 80px; 
+        height: 80px; 
     }
 </style>
