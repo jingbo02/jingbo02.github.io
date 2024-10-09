@@ -17,3 +17,5 @@ redirect_from:
 {% include_relative include/news.md %}
 
 {% include_relative include/pub.md %}
+
+{% include_relative include/edu.md %}
