@@ -5,7 +5,7 @@
 
 <div style="max-height: 200px; overflow-y: auto;">
 <ul>
-  <li><em>2024.10:</em> 🏆🏆🏆 I am awarded <strong>NeurIPS Scholar Award</strong> </li>
+  <li><em>2024.10:</em> 🏆🏆🏆 I am awarded <strong>NeurIPS Scholar Award</strong>. </li>
   <li><em>2024.09:</em> 🕶️🕶️🕶️ I serve as a reviewer for <strong>AISTATS 2025</strong>.</li>    
   <li><em>2024.09:</em> ✨✨✨ Two papers on de novo peptide sequencing were accepted by <strong>NeurIPS 2024</strong>.</li>
   <li><em>2024.09:</em> ✨✨✨ One paper on deep GNN was accepted by <strong>NeurIPS 2024</strong>.</li>
