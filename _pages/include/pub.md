@@ -32,7 +32,7 @@
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src="../images/nips24/searchnovo.PNG" alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024 AIDrugX</div><img src="../images/nips24/searchnovo.PNG" alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
  <dd><a href="https://openreview.net/pdf?id=MfphfLFhD4"><strong> Bridging the Gap between Database Search and \emph{De Novo} Peptide Sequencing with SearchNovo
