@@ -2,10 +2,10 @@
 
 **"Man is the measure of all things"**
 
-a) Graph Machine Learning
+a) Foundation Model
 
 - Graph Foundation Model
-- Generalized Graph Neural Network
+- Multimodal Model
 
 b) AI for Science
 
