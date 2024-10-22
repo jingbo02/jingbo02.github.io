@@ -31,3 +31,12 @@
 <dd> Jun Xia&dagger;, Shaorong Chen&dagger;, <strong><u>Jingbo Zhou&dagger;</u></strong>, Xiaojun Shan, Wenjie Du, Zhangyang Gao, Cheng Tan, Bozhen Hu, Jiangbin Zheng, Stan Z. Li </dd>
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src="../images/nips24/searchnovo.PNG" alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+ <dd><a href="https://openreview.net/pdf?id=MfphfLFhD4"><strong> Bridging the Gap between Database Search and \emph{De Novo} Peptide Sequencing with SearchNovo
+</strong></a></dd>
+<dd> Jun Xia, Sizhe Liu, Jingbo Zhou, Shaorong Chen, hongxin xiang, Zicheng Liu, Yue Liu, Stan Z. Li </dd>
+</div>
+</div>
