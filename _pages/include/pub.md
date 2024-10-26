@@ -37,6 +37,6 @@
 
  <dd><a href="https://openreview.net/pdf?id=MfphfLFhD4"><strong> Bridging the Gap between Database Search and \emph{De Novo} Peptide Sequencing with SearchNovo
 </strong></a></dd>
-<dd> Jun Xia&dagger;, Sizhe Liu&dagger;, Jingbo Zhou&dagger;, Shaorong Chen, hongxin xiang, Zicheng Liu, Yue Liu, Stan Z. Li </dd>
+<dd> Jun Xia&dagger;, Sizhe Liu&dagger;, <strong><u>Jingbo Zhou&dagger;</u></strong>, Shaorong Chen, hongxin xiang, Zicheng Liu, Yue Liu, Stan Z. Li </dd>
 </div>
 </div>
