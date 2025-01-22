@@ -5,7 +5,7 @@
 
 <div style="max-height: 200px; overflow-y: auto;">
 <ul>
-  <li><em>2024.09:</em> ✨✨✨ Two co-authored paper on RAG boosting denovo peptide sequencing was accepted by <strong>ICLR 2025</strong>.</li>
+  <li><em>2025.01:</em> ✨✨✨ Two co-authored paper on RAG boosting denovo peptide sequencing was accepted by <strong>ICLR 2025</strong>.</li>
   <li><em>2024.12:</em> 🕶️🕶️🕶️ I serve as a reviewer for <strong>ICML 2025</strong>.</li>  
   <li><em>2024.09:</em> ✨✨✨ One co-authored paper on RAG boosting denovo peptide sequencing was accepted by <strong>NeurIPS 2024 Workshop AIDrugX (spotlight)</strong>.</li>
   <li><em>2024.10:</em> 🏆🏆🏆 I am awarded <strong>NeurIPS Scholar Award</strong>. </li>
