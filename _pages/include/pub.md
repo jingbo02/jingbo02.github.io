@@ -37,6 +37,15 @@
 
  <dd><a href="https://openreview.net/pdf?id=MfphfLFhD4"><strong> Bridging the Gap between Database Search and \emph{De Novo} Peptide Sequencing with SearchNovo
 </strong></a></dd>
-<dd> Jun Xia&dagger;, Sizhe Liu&dagger;, <strong><u>Jingbo Zhou&dagger;</u></strong>, Shaorong Chen, hongxin xiang, Zicheng Liu, Yue Liu, Stan Z. Li  <p style="color: red;"> NeurIPS 2024 AIDrugX Spotlight </p></dd>
+<dd> Jun Xia&dagger;, Sizhe Liu&dagger;, <strong><u>Jingbo Zhou&dagger;</u></strong>, Shaorong Chen, hongxin xiang, Zicheng Liu, Yue Liu, Stan Z. Li  <p style="color: red;"> 🔥 NeurIPS 2024 AIDrugX Spotlight </p></dd>
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src="../images/iclr25/ReNovo.png" alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+ <dd><a href="https://openreview.net/forum?id=uQnvYP7yX9&referrer=%5Bthe%20profile%20of%20Jingbo%20Zhou%5D(%2Fprofile%3Fid%3D~Jingbo_Zhou2)"><strong> ReNovo: Retrieval-Based \emph{De Novo} Mass Spectrometry Peptide Sequencing
+</strong></a></dd>
+<dd> Shaorong Chen, Jun Xia, Jingbo Zhou, Lecheng Zhang, Zhangyang Gao, Bozhen Hu, Cheng Tan, Wenjie Du, Stan Z. Li </dd>
 </div>
 </div>
