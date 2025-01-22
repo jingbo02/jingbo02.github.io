@@ -32,11 +32,11 @@
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024 AIDrugX</div><img src="../images/nips24/searchnovo.PNG" alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src="../images/nips24/searchnovo.PNG" alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
  <dd><a href="https://openreview.net/pdf?id=MfphfLFhD4"><strong> Bridging the Gap between Database Search and \emph{De Novo} Peptide Sequencing with SearchNovo
 </strong></a></dd>
-<dd> Jun Xia&dagger;, Sizhe Liu&dagger;, <strong><u>Jingbo Zhou&dagger;</u></strong>, Shaorong Chen, hongxin xiang, Zicheng Liu, Yue Liu, Stan Z. Li </dd>
+<dd> Jun Xia&dagger;, Sizhe Liu&dagger;, <strong><u>Jingbo Zhou&dagger;</u></strong>, Shaorong Chen, hongxin xiang, Zicheng Liu, Yue Liu, Stan Z. Li  <p style="color: red;"> NeurIPS 2024 AIDrugX Spotlight </p></dd>
 </div>
 </div>
