@@ -46,6 +46,6 @@
 
  <dd><a href="https://openreview.net/forum?id=uQnvYP7yX9&referrer=%5Bthe%20profile%20of%20Jingbo%20Zhou%5D(%2Fprofile%3Fid%3D~Jingbo_Zhou2)"><strong> ReNovo: Retrieval-Based \emph{De Novo} Mass Spectrometry Peptide Sequencing
 </strong></a></dd>
-<dd> Shaorong Chen, Jun Xia, Jingbo Zhou, Lecheng Zhang, Zhangyang Gao, Bozhen Hu, Cheng Tan, Wenjie Du, Stan Z. Li </dd>
+<dd> Shaorong Chen&dagger;, Jun Xia&dagger;, <strong><u>Jingbo Zhou&dagger;</u></strong>, Lecheng Zhang, Zhangyang Gao, Bozhen Hu, Cheng Tan, Wenjie Du, Stan Z. Li </dd>
 </div>
 </div>
