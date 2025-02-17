@@ -49,3 +49,12 @@
 <dd> Shaorong Chen&dagger;, Jun Xia&dagger;, <strong><u>Jingbo Zhou&dagger;</u></strong>, Lecheng Zhang, Zhangyang Gao, Bozhen Hu, Cheng Tan, Wenjie Du, Stan Z. Li </dd>
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src="../images/ijcai25/NovoSurvey.png" alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+ <dd><a href="https://github.com/jingbo02/jingbo02.github.io"><strong> A comprehensive and systematic review for deep learning-based de novo peptide sequencing
+</strong></a></dd>
+<dd> Jun Xia&dagger;, <strong><u>Jingbo Zhou&dagger;</u></strong>, Shaorong Chen&dagger;, Tianze Ling&dagger;, Stan Z. Li </dd>
+</div>
+</div>
