@@ -10,3 +10,4 @@ a) Foundation Model
 b) AI for Science
 
 - Computational Biochemistry
+- AIVC

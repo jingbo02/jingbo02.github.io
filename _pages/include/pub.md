@@ -64,6 +64,6 @@
 
  <dd><a href="https://github.com/jingbo02/jingbo02.github.io"><strong> NodeReg: Mitigating the Imbalance and Distribution Shift Effects in Semi-Supervised Node Classification via Norm Consistency
 </strong></a></dd>
-<dd> Shenzhi Yang, Jun Xia, Jingbo Zhou, Xingkai Yao, Xiaofang Zhang </dd>
+<dd> Shenzhi Yang, Jun Xia, <strong><u>Jingbo Zhou</u></strong>, Xingkai Yao, Xiaofang Zhang </dd>
 </div>
 </div>
