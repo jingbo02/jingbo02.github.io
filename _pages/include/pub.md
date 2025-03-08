@@ -58,3 +58,12 @@
 <dd> Jun Xia&dagger;, <strong><u>Jingbo Zhou&dagger;</u></strong>, Shaorong Chen&dagger;, Tianze Ling&dagger;, Stan Z. Li </dd>
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src="../images/preprint/NodeReg.png" alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+ <dd><a href="https://github.com/jingbo02/jingbo02.github.io"><strong> NodeReg: Mitigating the Imbalance and Distribution Shift Effects in Semi-Supervised Node Classification via Norm Consistency
+</strong></a></dd>
+<dd> Shenzhi Yang, Jun Xia, Jingbo Zhou, Xingkai Yao, Xiaofang Zhang </dd>
+</div>
+</div>
