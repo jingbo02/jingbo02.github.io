@@ -6,7 +6,7 @@
 <div style="max-height: 200px; overflow-y: auto;">
 <ul>
   <li><em>2025.04:</em> ✨✨✨ Two co-authored paper on denovo peptide sequencing & single cell pertubation was accepted by <strong>IJCAI 2025</strong>.</li>
-  <li><em>2025.04:</em> 🌴🌴🌴 Have a wonderful time <strong>@ICLR 2025</strong>.</li>  
+  <li><em>2025.04:</em> 🌴🌴🌴 Have a wonderful time <strong>@ICLR 2025 🇸🇬Singapore</strong>.</li>  
   <li><em>2025.01:</em> 🕶️🕶️🕶️ I serve as a reviewer for <strong>NeurIPS 2025</strong>.</li>  
   <li><em>2025.01:</em> ✨✨✨ Two co-authored paper on RAG boosting denovo peptide sequencing was accepted by <strong>ICLR 2025</strong>.</li>
   <li><em>2024.12:</em> 🕶️🕶️🕶️ I serve as a reviewer for <strong>ICML 2025</strong>.</li>  
