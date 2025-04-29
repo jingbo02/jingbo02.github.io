@@ -4,6 +4,7 @@
 
 a) Foundation Model
 
+- Single Cell Foundation Model
 - Graph Foundation Model
 - Multimodal Model
 

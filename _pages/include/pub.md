@@ -50,12 +50,22 @@
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src="../images/ijcai25/NovoSurvey.png" alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2025</div><img src="../images/ijcai25/NovoSurvey.png" alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
  <dd><a href="https://github.com/jingbo02/jingbo02.github.io"><strong> A comprehensive and systematic review for deep learning-based de novo peptide sequencing
 </strong></a></dd>
 <dd> Jun Xia&dagger;, <strong><u>Jingbo Zhou&dagger;</u></strong>, Shaorong Chen&dagger;, Tianze Ling&dagger;, Stan Z. Li </dd>
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2025</div><img src="../images/ijcai25/Grape.png" alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+ <dd><a href="https://github.com/jingbo02/jingbo02.github.io"><strong> GRAPE: Heterogeneous Graph Representation Learning for Genetic Perturbation with Coding and Non-Coding Biotype
+</strong></a></dd>
+<dd> Changxi Chi, Xia Jun, <strong><u>Jingbo Zhou</u></strong>, Jiabei Cheng, Chang Yu, Stan Z. Li </dd>
 </div>
 </div>
 
