@@ -1,11 +1,12 @@
-# 🔎 Research 
+# 🔎 Research Interests
 
 **"Man is the measure of all things"**
 
 a) Foundation Model
 
 - Graph Foundation Model
-- Multimodal Model
+- Large Language Models
+
 
 b) AI for Science
 
