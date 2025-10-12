@@ -7,14 +7,14 @@
 
 <!-- 领域切换 -->
 <div class="filter-container" style="margin-left: 1em;">
-  <a href="#" class="filter-link active" id="filter-denovo" onclick="showTopic('denovo'); return false;">de novo peptide sequencing</a>
+  <a href="#" class="filter-link active" id="filter-denovo" onclick="showTopic('denovo'); return false;">De novo Peptide Sequencing</a>
   <span class="filter-separator">/</span>
-  <a href="#" class="filter-link" id="filter-gnn" onclick="showTopic('gnn'); return false;">GNN</a>
+  <a href="#" class="filter-link" id="filter-gnn" onclick="showTopic('gnn'); return false;">Graph Neural Networks</a>
   <span class="filter-separator">/</span>
-  <a href="#" class="filter-link" id="filter-aivc" onclick="showTopic('aivc'); return false;">AIVC</a>
+  <a href="#" class="filter-link" id="filter-aivc" onclick="showTopic('aivc'); return false;">AI Virtual Cell</a>
 </div>
 
-<!-- de novo peptide sequencing -->
+<!-- De novo peptide sequencing -->
 <div id="section-denovo" class="topic-section">
   <!-- NovoBench -->
   <div class='paper-box'><div class='paper-box-image'>
