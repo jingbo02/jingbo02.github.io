@@ -113,6 +113,17 @@
 <div class='paper-box' data-domain="AI Virtual Cell">
   <div class='paper-box-image'>
     <span class="conference-label">IJCAI 2025</span>
+    <img src="../images/nips25/pres.png" alt="sym" width="100%">
+  </div>
+  <div class='paper-box-text'>
+    <p><a href="https://openreview.net/forum?id=A5O41ntKjk"><strong>PRESCRIBE: Predicting Single-Cell Responses with Bayesian Estimation</strong></a></p>
+    <p>Jiabei Cheng, Changxi Chi, <strong><u>Jingbo Zhou</u></strong>, Hongyi Xin, Jun Xia</p>
+  </div>
+</div>
+
+<div class='paper-box' data-domain="AI Virtual Cell">
+  <div class='paper-box-image'>
+    <span class="conference-label">IJCAI 2025</span>
     <img src="../images/ijcai25/Grape.png" alt="sym" width="100%">
   </div>
   <div class='paper-box-text'>
@@ -120,6 +131,7 @@
     <p>Changxi Chi, Xia Jun, <strong><u>Jingbo Zhou</u></strong>, Jiabei Cheng, Chang Yu, Stan Z. Li</p>
   </div>
 </div>
+
 
 <div class='paper-box' data-domain="Graph Neural Networks">
   <div class='paper-box-image'>
