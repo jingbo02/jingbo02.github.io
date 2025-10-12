@@ -5,6 +5,8 @@
 
 <div style="max-height: 200px; overflow-y: auto;">
 <ul>
+  <li><em>2025.09:</em> ✨✨✨ One co-authored paper on single cell pertubation was accepted by <strong>NeurIPS 2025</strong>.</li> 
+  <li><em>2025.08:</em> 🕶️🕶️🕶️ I serve as a reviewer for <strong>ICLR 2026 & AAAI 2025</strong>.</li>  
   <li><em>2025.06:</em> 🌴🌴🌴 Have a wonderful time <strong>@VALSE 2025 🇨🇳ZHU HAI </strong>.</li>  
   <li><em>2025.04:</em> ✨✨✨ Two co-authored paper on denovo peptide sequencing & single cell pertubation was accepted by <strong>IJCAI 2025</strong>.</li>
   <li><em>2025.04:</em> 🌴🌴🌴 Have a wonderful time <strong>@ICLR 2025 🇸🇬Singapore</strong>.</li>  
