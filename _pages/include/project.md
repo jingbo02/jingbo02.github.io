@@ -14,8 +14,11 @@
   .project-box:hover {
     transform: translateY(-3px);
   }
-  .project-box-image {
-    position: relative;
+  .project-box-image img {
+    width: 100%;
+    height: 180px;   /* 固定高度 */
+    object-fit: cover; /* 裁剪，多余部分截掉 */
+    border-bottom: 1px solid #eee;
   }
   .conference-label {
     position: absolute;
