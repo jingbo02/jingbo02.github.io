@@ -3,22 +3,28 @@
 <style>
   .project-box {
     display: flex;
-    flex-direction: column;
+    flex-direction: row;   /* 横向布局：图片在左，文字在右 */
     margin: 1rem 0;
     border: 1px solid #e2e2e2;
     border-radius: 12px;
     overflow: hidden;
     box-shadow: 0 2px 6px rgba(0,0,0,0.05);
     transition: transform 0.15s ease-in-out;
+    max-width: 900px; /* 控制卡片整体宽度 */
   }
   .project-box:hover {
     transform: translateY(-3px);
   }
+  .project-box-image {
+    position: relative;
+    flex: 0 0 250px; /* 图片固定宽度 */
+  }
   .project-box-image img {
     width: 100%;
-    height: 180px;   /* 固定高度 */
-    object-fit: cover; /* 裁剪，多余部分截掉 */
-    border-bottom: 1px solid #eee;
+    height: 100%;
+    max-height: 200px;     /* 控制图片高度 */
+    object-fit: cover;     /* 填满并裁剪 */
+    border-right: 1px solid #eee;
   }
   .conference-label {
     position: absolute;
@@ -39,6 +45,7 @@
     transition: background-color 0.2s ease;
   }
   .project-box-text {
+    flex: 1;              /* 占据剩余空间 */
     padding: 1rem;
   }
   .project-box-text p {
@@ -50,7 +57,7 @@
 <div class="project-box">
   <div class="project-box-image">
     <span class="conference-label">GitHub</span>
-    <img src="../images/opensource/hpdex.png" alt="hpdex project preview" width="100%">
+    <img src="../images/opensource/hpdex.png" alt="hpdex project preview">
   </div>
   <div class="project-box-text">
     <p>
