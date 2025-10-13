@@ -2,7 +2,7 @@
 
 <h1>⚛️ Open Source Project</h1>
 
-<div class='paper-box' data-domain="AI Virtual Cell">
+<div class='paper-box' data-domain="">
   <div class='paper-box-image'>
     <span class="conference-label">Github</span>
     <img src="../images/opensource/hpdex.png" alt="sym" width="100%">
