@@ -17,7 +17,7 @@
   }
   .project-box-image {
     position: relative;
-    flex: 0 0 250px; /* 图片固定宽度 */
+    flex: 0 0 200px; /* 图片固定宽度 */
   }
   .project-box-image img {
     width: 100%;
