@@ -65,6 +65,6 @@
         <strong>hpdex: High-performance differential expression analysis for single-cell data</strong>
       </a>
     </p>
-    <p><strong>Vita Team</strong></p>
+    <p><strong>CAIRI</strong></p>
   </div>
 </div>
