@@ -84,7 +84,7 @@
   </div>
   <div class='paper-box-text'>
     <p><a href="https://openreview.net/pdf?id=MfphfLFhD4"><strong>Bridging the Gap between Database Search and <em>De Novo</em> Peptide Sequencing with SearchNovo</strong></a></p>
-    <p>Jun Xia&dagger;, Sizhe Liu&dagger;, <strong><u>Jingbo Zhou&dagger;</u></strong>, Shaorong Chen, hongxin xiang, Zicheng Liu, Yue Liu, Stan Z. Li <span style="color:red">🔥 NeurIPS 2024 AIDrugX Spotlight</span></p>
+    <p>Jun Xia&dagger;, Sizhe Liu&dagger;, <strong><u>Jingbo Zhou&dagger;</u></strong>, Shaorong Chen, hongxin xiang, Zicheng Liu, Yue Liu, Stan Z. Li <span style="color:red"><br>🔥 NeurIPS 2024 AIDrugX Spotlight</span></p>
   </div>
 </div>
 
@@ -101,6 +101,18 @@
 
 <div class='paper-box' data-domain="De novo Peptide Sequencing">
   <div class='paper-box-image'>
+    <span class="conference-label">AAAI 2026</span>
+    <img src="../images/aaai26/diffnovo.png" alt="sym" width="100%">
+  </div>
+  <div class='paper-box-text'>
+    <p><a href="https://github.com/jingbo02/jingbo02.github.io"><strong>Regressor-guided Diffusion Model for <em>De Novo</em> Peptide Sequencing with Explicit Mass Control</strong></a></p>
+    <p>Shaorong Chen, <strong><u>Jingbo Zhou</u></strong>, Jun Xia</p>
+  </div>
+</div>
+
+
+<div class='paper-box' data-domain="De novo Peptide Sequencing">
+  <div class='paper-box-image'>
     <span class="conference-label">IJCAI 2025</span>
     <img src="../images/ijcai25/NovoSurvey.png" alt="sym" width="100%">
   </div>
@@ -109,6 +121,19 @@
     <p>Jun Xia&dagger;, <strong><u>Jingbo Zhou&dagger;</u></strong>, Shaorong Chen&dagger;, Tianze Ling&dagger;, Stan Z. Li</p>
   </div>
 </div>
+
+
+<div class='paper-box' data-domain="AI Virtual Cell">
+  <div class='paper-box-image'>
+    <span class="conference-label">AAAI 2026</span>
+    <img src="../images/aaai26/mergedna.png" alt="sym" width="100%">
+  </div>
+  <div class='paper-box-text'>
+    <p><a href="https://github.com/jingbo02/jingbo02.github.io"><strong>MergeDNA: Context-aware Genome Modeling with Dynamic Tokenization through Token Merging</strong></a></p>
+    <p>Siyuan Li, Zicheng Liu, Kai Yu, Chang Yu, <strong><u>Jingbo Zhou</u></strong>, Anna Wang, Qirong Yang, yucheng guo, Xiaoming Zhang, Stan Z. Li</p><br>🔥 Oral
+  </div>
+</div>
+
 
 <div class='paper-box' data-domain="AI Virtual Cell">
   <div class='paper-box-image'>
