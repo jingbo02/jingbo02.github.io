@@ -130,7 +130,7 @@
   </div>
   <div class='paper-box-text'>
     <p><a href="https://github.com/jingbo02/jingbo02.github.io"><strong>MergeDNA: Context-aware Genome Modeling with Dynamic Tokenization through Token Merging</strong></a></p>
-    <p>Siyuan Li, Zicheng Liu, Kai Yu, Chang Yu, <strong><u>Jingbo Zhou</u></strong>, Anna Wang, Qirong Yang, yucheng guo, Xiaoming Zhang, Stan Z. Li</p><br>🔥 Oral
+    <p>Siyuan Li, Zicheng Liu, Kai Yu, Chang Yu, <strong><u>Jingbo Zhou</u></strong>, Anna Wang, Qirong Yang, yucheng guo, Xiaoming Zhang, Stan Z. Li</p><br>🔥 AAAI 2026 Oral Presentation
   </div>
 </div>
 
