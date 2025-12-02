@@ -7,5 +7,6 @@
 - Reviewer for AISTATS'2025, 2026
 - Reviewer for AAAI'2025
 
-## Journal Reviewer 
+## Journal Reviewer
+- Reviewer for Pattern Recognition 
 - Reviewer for TCBB

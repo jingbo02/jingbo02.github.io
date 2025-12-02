@@ -5,7 +5,8 @@
 
 <div style="max-height: 200px; overflow-y: auto;">
 <ul>
-  <li><em>2025.11:</em> ✨✨✨ Two co-authored paper on denovo peptide sequencing and dna modeling [🔥🔥🔥 oral presentation] were accepted by <strong>AAAI 2026</strong>. Congratulation to @Siyuan! </li> 
+  <li><em>2025.12:</em> 🕶️🕶️🕶️ I serve as a reviewer for <strong>Pattern Recognition</strong>.</li> 
+  <li><em>2025.11:</em> ✨✨✨ Two co-authored paper on denovo peptide sequencing and dna modeling 🔥🔥🔥 oral presentation were accepted by <strong>AAAI 2026</strong>. Congratulation to @Siyuan! </li> 
   <li><em>2025.09:</em> 🔥🔥🔥 One co-authored paper on AI for Spectra has been accepted by <strong>Nature Methods</strong> in principle.</li> 
   <li><em>2025.09:</em> ✨✨✨ One co-authored paper on single cell pertubation was accepted by <strong>NeurIPS 2025</strong> </li> 
   <li><em>2025.09:</em> ⚛️⚛️⚛️ We have open-sourced the <strong>hpdex library</strong> for high-performance differential gene expression analysis.</li>  
