@@ -9,4 +9,5 @@
 
 ## Journal Reviewer
 - Reviewer for Pattern Recognition 
+- Reviewer for TKDD
 - Reviewer for TCBB
