@@ -5,6 +5,7 @@
 
 <div style="max-height: 200px; overflow-y: auto;">
 <ul>
+  <li><em>2025.12:</em> 🕶️🕶️🕶️ Invitation to serve as a reviewer for <strong>ICML 2026</strong>.</li> 
   <li><em>2025.12:</em> 🕶️🕶️🕶️ Invitation to serve as a reviewer for <strong>Transactions on Knowledge Discovery from Data</strong>.</li> 
   <li><em>2025.12:</em> 🕶️🕶️🕶️ Invitation to serve as a reviewer for <strong>Pattern Recognition</strong>.</li> 
   <li><em>2025.11:</em> ✨✨✨ Two co-authored paper on denovo peptide sequencing and dna modeling 🔥🔥🔥 oral presentation were accepted by <strong>AAAI 2026</strong>. Congratulation to @Siyuan! </li> 
