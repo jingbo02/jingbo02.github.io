@@ -57,6 +57,17 @@
 
 <div class='paper-box' data-domain="Graph Neural Networks">
   <div class='paper-box-image'>
+    <span class="conference-label">WWW 2026</span>
+    <img src="../images/www26/vecformer.png" alt="sym" width="100%">
+  </div>
+  <div class='paper-box-text'>
+    <p><a href="https://jingbo02.github.io/"><strong>VecFormer: Towards Efficient and Generalizable Graph Transformer with Graph Token Attention</strong></a></p>
+    <p><strong><u>Jingbo Zhou&dagger;</u></strong>, Jun Xia&dagger;, Chang Yu&dagger;, Siyuan Li, Yunfan Liu, Wenjun Wang, Yufei Huang, Changxi Chi, Mutian Hong, Zhuoli Ouyang, Shu Wang, Zhongqi Wang, Xingyu Wu, Stan Z. Li</p>
+  </div>
+</div>
+
+<div class='paper-box' data-domain="Graph Neural Networks">
+  <div class='paper-box-image'>
     <span class="conference-label">NeurIPS 2024</span>
     <img src="../images/nips24/psnr.png" alt="sym" width="100%">
   </div>
