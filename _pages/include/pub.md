@@ -156,8 +156,7 @@
   </div>
   <div class='paper-box-text'>
     <p><a href="https://github.com/jingbo02/jingbo02.github.io"><strong>CDBridge: A Cross-omics Post-training Bridge Strategy for Context-aware Biological Modeling</strong></a></p>
-    <p>Chang Yu, Siyuan Li, Zicheng Liu, Jingbo Zhou, Xianglong Guo, Kai Yu,
- <strong><u>Jingbo Zhou</u></strong>, Yuqing Zhou, Ken Li, Zelin Zang, Zhen Lei, Stan Z. Li </p>
+    <p>Chang Yu, Siyuan Li, Zicheng Liu,  <strong><u>Jingbo Zhou</u></strong>, Xianglong Guo, Kai Yu,Yuqing Zhou, Ken Li, Zelin Zang, Zhen Lei, Stan Z. Li </p>
   </div>
 </div>
 
