@@ -148,6 +148,19 @@
 </div>
 
 
+
+<div class='paper-box' data-domain="AI Virtual Cell">
+  <div class='paper-box-image'>
+    <span class="conference-label">ICLR 2026</span>
+    <img src="../images/iclr26/cdbridge.png" alt="sym" width="100%">
+  </div>
+  <div class='paper-box-text'>
+    <p><a href="https://github.com/jingbo02/jingbo02.github.io"><strong>CDBridge: A Cross-omics Post-training Bridge Strategy for Context-aware Biological Modeling</strong></a></p>
+    <p>Chang Yu, Siyuan Li, Zicheng Liu, Jingbo Zhou, Xianglong Guo, Kai Yu,
+ <strong><u>Jingbo Zhou</u></strong>, Yuqing Zhou, Ken Li, Zelin Zang, Zhen Lei, Stan Z. Li </p>
+  </div>
+</div>
+
 <div class='paper-box' data-domain="AI Virtual Cell">
   <div class='paper-box-image'>
     <span class="conference-label">IJCAI 2025</span>
@@ -156,6 +169,17 @@
   <div class='paper-box-text'>
     <p><a href="https://openreview.net/forum?id=A5O41ntKjk"><strong>PRESCRIBE: Predicting Single-Cell Responses with Bayesian Estimation</strong></a></p>
     <p>Jiabei Cheng, Changxi Chi, <strong><u>Jingbo Zhou</u></strong>, Hongyi Xin, Jun Xia</p>
+  </div>
+</div>
+
+<div class='paper-box' data-domain="AI Virtual Cell">
+  <div class='paper-box-image'>
+    <span class="conference-label">ICLR 2026</span>
+    <img src="../images/iclr26/dolories.png" alt="sym" width="100%">
+  </div>
+  <div class='paper-box-text'>
+    <p><a href="https://github.com/jingbo02/jingbo02.github.io"><strong>Doloris: Dual Conditional Diffusion Implicit Bridges with Sparsity Masking Strategy for Unpaired Single-Cell Perturbation Estimation</strong></a></p>
+    <p>Changxi Chi, Jun Xia, Yufei Huang, Zhuoli Ouyang, Cheng Tan, Yunfan Liu, <strong><u>Jingbo Zhou</u></strong>,  Chang Yu, Liangyu Yuan, Siyuan Li, Zelin Zang, Stan Z. Li</p>
   </div>
 </div>
 
@@ -179,6 +203,19 @@
   <div class='paper-box-text'>
     <p><a href="https://github.com/jingbo02/jingbo02.github.io"><strong>NodeReg: Mitigating the Imbalance and Distribution Shift Effects in Semi-Supervised Node Classification via Norm Consistency</strong></a></p>
     <p>Shenzhi Yang, Jun Xia, <strong><u>Jingbo Zhou</u></strong>, Xingkai Yao, Xiaofang Zhang</p>
+  </div>
+</div>
+
+
+<div class='paper-box' data-domain="Video Generation">
+  <div class='paper-box-image'>
+    <span class="conference-label">ICLR 2026</span>
+    <img src="../images/iclr26/steinsgate.png" alt="sym" width="100%">
+  </div>
+  <div class='paper-box-text'>
+    <p><a href="https://github.com/jingbo02/jingbo02.github.io"><strong>SteinsGate: Adding Causality to Diffusions for Long Video Generation via Path Integral</strong></a></p>
+    <p>Yufei Huang, Liangyu Yuan, Changxi Chi, Yunfan Liu, Cheng Tan, Siyuan Li,
+ <strong><u>Jingbo Zhou</u></strong>, Haitao Lin, Chang Yu, Stan Z. Li  </p>
   </div>
 </div>
 
