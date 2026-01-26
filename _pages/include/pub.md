@@ -9,7 +9,7 @@
   <button class="pub-filter__btn" role="tab" aria-selected="false" data-filter="Graph Neural Networks">Graph Neural Networks</button>
   <button class="pub-filter__btn" role="tab" aria-selected="false" data-filter="AI Virtual Cell">AI Virtual Cell</button>
   <!-- <span class="pub-filter__count" aria-live="polite"></span> -->
-  <button class="pub-filter__btn" role="tab" aria-selected="false" data-filter="Video Generation">Video Generation</button>
+    <button class="pub-filter__btn" role="tab" aria-selected="false" data-filter="Video Generation">Video Generation</button>
   <span class="pub-filter__count" aria-live="polite"></span>
 </div>
 
