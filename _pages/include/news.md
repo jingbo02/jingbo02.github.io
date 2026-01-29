@@ -5,6 +5,7 @@
 
 <div style="max-height: 200px; overflow-y: auto;">
 <ul>
+  <li><em>2026.01:</em> 🏆🏆🏆 <strong>Awarded a Reviewer Certificate (2025)</strong> by IEEE/ACM Transactions on Computational Biology and Bioinformatics (TCBB) in recognition of contributions as a peer reviewer. </li>
   <li><em>2026.01:</em> ✨✨✨ Three co-authored paper on video generation & multi-omics & single cell pertubation was accepted by <strong>ICLR 2026</strong>.</li> 
   <li><em>2026.01:</em> ✨✨✨ One paper on Graph Transformer & Graph OOD was accepted by <strong>WWW 2026</strong>.</li>  
   <li><em>2025.12:</em> 🕶️🕶️🕶️ Invitation to serve as a reviewer for <strong>ICML 2026</strong>.</li> 
