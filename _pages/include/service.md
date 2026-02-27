@@ -9,6 +9,7 @@
 - Reviewer for AAAI'2025
 
 ## Journal Reviewer
+- Reviewer for Analytical Chemistry
 - Reviewer for Pattern Recognition 
 - Reviewer for TKDD
 - Reviewer for TCBB
