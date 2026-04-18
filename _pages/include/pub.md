@@ -58,7 +58,7 @@
   }
   .paper-box-image {
   position: relative;
-  aspect-ratio: 16 / 9;
+  aspect-ratio: 2 / 1;
   overflow: hidden;
 }
 .paper-box-image img {
