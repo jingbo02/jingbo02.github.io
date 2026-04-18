@@ -3,6 +3,64 @@
 <h1>📃 Publications</h1>
 <p><strong>&dagger; Equal Contribution</strong></p>
 
+
+<!-- Publication Statistics Cards -->
+<div class="pub-stats-cards">
+  <div class="pub-stats-card">
+    <div class="pub-stats-card__number">12</div>
+    <div class="pub-stats-card__label">CCF-A</div>
+    <div class="pub-stats-card__sub">3 first author; 3 co-first author; 6 co-author;</div>
+  </div>
+  <div class="pub-stats-card">
+    <div class="pub-stats-card__number">3</div>
+    <div class="pub-stats-card__label">SCI-Q1/CCF-B</div>
+    <div class="pub-stats-card__sub">3 co-author;</div>
+  </div>
+  <div class="pub-stats-card">
+    <div class="pub-stats-card__number">53</div>
+    <div class="pub-stats-card__label">Citations</div>
+    <div class="pub-stats-card__sub">Google Scholar</div>
+  </div>
+</div>
+
+<style>
+  .pub-stats-cards {
+    display: flex;
+    gap: 0.75rem;
+    flex-wrap: wrap;
+    margin: 0.75rem 0 1.25rem;
+  }
+  .pub-stats-card {
+    flex: 1;
+    min-width: 120px;
+    padding: 0.75rem 1rem;
+    border: 1px solid #e8e8e8;
+    border-radius: 8px;
+    background: #fafafa;
+    text-align: center;
+  }
+  .pub-stats-card__number {
+    font-size: 1.8rem;
+    font-weight: 700;
+    line-height: 1.2;
+    color: #111;
+  }
+  .pub-stats-card__label {
+    font-size: 0.9rem;
+    font-weight: 600;
+    color: #333;
+    margin-top: 0.15rem;
+  }
+  .pub-stats-card__sub {
+    font-size: 0.72rem;
+    color: #999;
+    margin-top: 0.15rem;
+  }
+</style>
+
+
+
+
 <div class="pub-filter" role="tablist" aria-label="Filter publications by domain">
   <button class="pub-filter__btn is-active" role="tab" aria-selected="true" data-filter="all">All</button>
   <button class="pub-filter__btn" role="tab" aria-selected="false" data-filter="De novo Peptide Sequencing">De novo Peptide Sequencing</button>
@@ -162,7 +220,7 @@
 
 <div class='paper-box' data-domain="AI Virtual Cell">
   <div class='paper-box-image'>
-    <span class="conference-label">IJCAI 2025</span>
+    <span class="conference-label">NeurIPS 2025</span>
     <img src="../images/nips25/pres.png" alt="sym" width="100%">
   </div>
   <div class='paper-box-text'>
