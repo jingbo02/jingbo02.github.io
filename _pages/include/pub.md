@@ -56,6 +56,16 @@
     color: #999;
     margin-top: 0.15rem;
   }
+  .paper-box-image {
+  position: relative;
+  aspect-ratio: 16 / 9;
+  overflow: hidden;
+}
+.paper-box-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
 </style>
 
 
