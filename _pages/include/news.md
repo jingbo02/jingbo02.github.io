@@ -8,7 +8,7 @@
   <li><em>2026.03:</em> 🧑‍🎓🧑‍🎓🧑‍🎓 Serving as a Teaching Assistant for <strong>Deep Learning for Data Science</strong>!</li>
   <li><em>2026.02:</em> 🕶️🕶️🕶️ Invitation to serve as a reviewer for <strong>Analytical Chemistry</strong>!</li> 
   <li><em>2026.02:</em> ✨✨✨ One co-authored paper on single cell pertubation was accepted by <strong>Pattern Recognition</strong>.</li>
-  <li><em>2026.02:</em> 🕶️🕶️🕶️ Invitation to serve as a reviewer for <strong>KDD 2026</strong>.</li> 
+  <li><em>2026.02:</em> 🕶️🕶️🕶️ Invitation to serve as a reviewer for <strong>KDD (Benchmark track & first AI4Sci track) 2026</strong>.</li> 
   <li><em>2026.01:</em> 🏆🏆🏆 <strong>Awarded a Reviewer Certificate (2025)</strong> by IEEE/ACM Transactions on Computational Biology and Bioinformatics (TCBB) in recognition of contributions as a peer reviewer. </li>
   <li><em>2026.01:</em> ✨✨✨ Three co-authored paper on video generation & multi-omics & single cell pertubation was accepted by <strong>ICLR 2026</strong>.</li> 
   <li><em>2026.01:</em> ✨✨✨ One paper on Graph Transformer & Graph OOD was accepted by <strong>WWW 2026</strong>.</li>  

@@ -69,8 +69,6 @@
 </style>
 
 
-
-
 <div class="pub-filter" role="tablist" aria-label="Filter publications by domain">
   <button class="pub-filter__btn is-active" role="tab" aria-selected="true" data-filter="all">All</button>
   <button class="pub-filter__btn" role="tab" aria-selected="false" data-filter="De novo Peptide Sequencing">De novo Peptide Sequencing</button>
