@@ -218,6 +218,17 @@
   </div>
 </div>
 
+<div class='paper-box' data-domain="AI Virtual Cell">
+  <div class='paper-box-image'>
+    <span class="conference-label">Pattern Recognition</span>
+    <img src="../images/pr/vitamol.png" alt="sym" width="100%">
+  </div>
+  <div class='paper-box-text'>
+    <p><a href="https://www.sciencedirect.com/science/article/abs/pii/S0031320326002840"><strong>VitaMol: Lightweight Molecular Modality Expansion in Discrete Space for Multi-Task Transfer Learning</strong></a></p>
+    <p>Yunfan Liu, Zhifeng Gao, Lirong Wu, <strong><u>Jingbo Zhou</u></strong>, Tongyue Xu, Cheng Tan, Yufei Huang, Changxi Chi, Chang Yu, Stan Z. Li</p>
+  </div>
+</div>
+
 <script>
 (function () {
   const buttons = Array.from(document.querySelectorAll('.pub-filter__btn'));

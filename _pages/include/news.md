@@ -5,6 +5,7 @@
 
 <div style="max-height: 200px; overflow-y: auto;">
 <ul>
+  <li><em>2026.03:</em> 🧑‍🎓🧑‍🎓🧑‍🎓 Serving as a Teaching Assistant for <strong>Deep Learning for Data Science</strong>!</li>
   <li><em>2026.02:</em> 🕶️🕶️🕶️ Invitation to serve as a reviewer for <strong>Analytical Chemistry</strong>!</li> 
   <li><em>2026.02:</em> ✨✨✨ One co-authored paper on single cell pertubation was accepted by <strong>Pattern Recognition</strong>.</li>
   <li><em>2026.02:</em> 🕶️🕶️🕶️ Invitation to serve as a reviewer for <strong>KDD 2026</strong>.</li> 
