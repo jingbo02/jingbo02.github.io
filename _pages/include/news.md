@@ -5,6 +5,7 @@
 
 <div style="max-height: 200px; overflow-y: auto;">
 <ul>
+  <li><em>2026.04:</em> 🕶️🕶️🕶️ Invitation to serve as a reviewer for <strong>MedComm – Future Medicine</strong>!</li>
   <li><em>2026.04:</em> 🎉🎉🎉 Our paper <strong>VecFormer</strong> (WWW 2026) has been selected for a <strong>VALSE 2026</strong> Poster Presentation. See you in Wuhan this May!</li>
   <li><em>2026.03:</em> 🧑‍🎓🧑‍🎓🧑‍🎓 Serving as a Teaching Assistant for <strong>Deep Learning for Data Science</strong>!</li>
   <li><em>2026.02:</em> 🕶️🕶️🕶️ Invitation to serve as a reviewer for <strong>Analytical Chemistry</strong>!</li> 

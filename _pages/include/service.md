@@ -5,9 +5,9 @@
 
 ## Journal Reviewer
 - Reviewer for Analytical Chemistry
+- Reviewer for MedComm – Future Medicine
 - Reviewer for Pattern Recognition 
-- Reviewer for TKDD
-- Reviewer for TCBB
+- Reviewer for TKDD, TCBB
 
 ## Conference Reviewer
 - Reviewer for NeurIPS'2024, 2025
