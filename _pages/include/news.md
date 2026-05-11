@@ -5,6 +5,8 @@
 
 <div style="max-height: 200px; overflow-y: auto;">
 <ul>
+  <li><em>2026.05:</em> 🕶️🕶️🕶️ Invitation to serve as a reviewer for <strong>GFM Workshop @ ICML 2026</strong>!</li>
+  <li><em>2026.05:</em> 🎓🎓🎓 Became a member of <strong>China Society of Image and Graphics (CSIG)</strong>!</li>
   <li><em>2026.05:</em> ✨✨✨ Two co-authored paper on Artificial Intelligence Virtual Cell (🔥🔥🔥 GFG spotlight) were accepted by <strong>ICML 2026</strong>. Congratulation to @Chang Yu! </li> 
   <li><em>2026.04:</em> 🕶️🕶️🕶️ Invitation to serve as a reviewer for <strong>MedComm – Future Medicine</strong>!</li>
   <li><em>2026.04:</em> 🎉🎉🎉 Our paper <strong>VecFormer</strong> (WWW 2026) has been selected for a <strong>VALSE 2026</strong> Poster Presentation. See you in Wuhan this May!</li>
