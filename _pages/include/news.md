@@ -65,7 +65,7 @@
   <li><em>2025.12:</em> 🕶️🕶️🕶️ Invitation to serve as a reviewer for <strong>ICML 2026</strong>.</li> 
   <li><em>2025.12:</em> 🕶️🕶️🕶️ Invitation to serve as a reviewer for <strong>Transactions on Knowledge Discovery from Data</strong>.</li> 
   <li><em>2025.12:</em> 🕶️🕶️🕶️ Invitation to serve as a reviewer for <strong>Pattern Recognition</strong>.</li> 
-  <li><em>2025.11:</em> ✨✨✨ Two co-authored paper on denovo peptide sequencing and dna modeling   
+  <li><em>2025.11:</em> ✨✨✨ Two co-authored paper on denovo peptide sequencing and dna modeling 🔥🔥🔥
    <span class="rainbow-spotlight" aria-label="Oral"> 
     <span style="--i:0">M</span>
     <span style="--i:1">e</span>
