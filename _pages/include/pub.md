@@ -19,8 +19,24 @@
   <div class="pub-stats-card">
     <div class="pub-stats-card__number">3</div>
     <div class="pub-stats-card__label">
-    
-    
+    <span class="rainbow-spotlight" aria-label="Oral"> 
+    <span style="--i:0">O</span>
+    <span style="--i:1">R</span>
+    <span style="--i:2">A</span>
+    <span style="--i:3">L</span>
+    <span style="--i:4">/</span>
+    </span>
+    <span class="rainbow-spotlight" aria-label="spotlight">
+    <span style="--i:0">S</span>
+    <span style="--i:1">P</span>
+    <span style="--i:2">O</span>
+    <span style="--i:3">T</span>
+    <span style="--i:4">L</span>
+    <span style="--i:5">I</span>
+    <span style="--i:6">G</span>
+    <span style="--i:7">H</span>
+    <span style="--i:8">T</span>
+  </span>
     </div>
     <div class="pub-stats-card__sub">AAAI,ICML,KDD</div>
   </div>
