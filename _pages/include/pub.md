@@ -16,7 +16,6 @@
     <div class="pub-stats-card__label">SCI-Q1/CCF-B</div>
     <div class="pub-stats-card__sub">3 co-author;</div>
   </div>
-  </div>
   <div class="pub-stats-card">
     <div class="pub-stats-card__number">55</div>
     <div class="pub-stats-card__label">Citations</div>
