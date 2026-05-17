@@ -17,6 +17,14 @@
     <div class="pub-stats-card__sub">3 co-author;</div>
   </div>
   <div class="pub-stats-card">
+    <div class="pub-stats-card__number">3</div>
+    <div class="pub-stats-card__label">
+    
+    
+    </div>
+    <div class="pub-stats-card__sub">AAAI,ICML,KDD</div>
+  </div>
+  <div class="pub-stats-card">
     <div class="pub-stats-card__number">53</div>
     <div class="pub-stats-card__label">Citations</div>
     <div class="pub-stats-card__sub">Google Scholar</div>

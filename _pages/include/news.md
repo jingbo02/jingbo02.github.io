@@ -10,7 +10,16 @@
 <ul>
   <li>
   <em>2026.05:</em> ✨✨✨ Two co-authored papers on Artificial Intelligence Virtual Cell 
- and DeNovo Peptide Sequencing (🔥🔥🔥 scHelix  
+ and DeNovo Peptide Sequencing (🔥🔥🔥 
+   <span class="rainbow-spotlight" aria-label="Oral"> 
+    <span style="--i:0">s</span>
+    <span style="--i:1">c</span>
+    <span style="--i:2">H</span>
+    <span style="--i:3">L</span>
+    <span style="--i:4">I</span>
+    <span style="--i:5">X</span>
+  </span>
+
   <span class="rainbow-spotlight" aria-label="Oral"> 
     <span style="--i:0">O</span>
     <span style="--i:1">R</span>
@@ -24,7 +33,13 @@
   <!-- <li><em>2026.05:</em> ✨✨✨ Two co-authored paper on Artificial Intelligence Virtual Cell (🔥🔥🔥 GFG spotlight) were accepted by <strong>ICML 2026</strong>. Congratulation to @Chang Yu! </li>  -->
   <li>
   <em>2026.05:</em> ✨✨✨ Two co-authored papers on Artificial Intelligence Virtual Cell 
-  (🔥🔥🔥 GFG 
+  (🔥🔥🔥 
+  <span class="rainbow-spotlight" aria-label="spotlight">
+    <span style="--i:0">G</span>
+    <span style="--i:1">F</span>
+    <span style="--i:2">G</span>
+  </span>
+
   <span class="rainbow-spotlight" aria-label="spotlight">
     <span style="--i:0">S</span>
     <span style="--i:1">P</span>
@@ -51,7 +66,18 @@
   <li><em>2025.12:</em> 🕶️🕶️🕶️ Invitation to serve as a reviewer for <strong>Transactions on Knowledge Discovery from Data</strong>.</li> 
   <li><em>2025.12:</em> 🕶️🕶️🕶️ Invitation to serve as a reviewer for <strong>Pattern Recognition</strong>.</li> 
   <li><em>2025.11:</em> ✨✨✨ Two co-authored paper on denovo peptide sequencing and dna modeling   
-    <span class="rainbow-spotlight" aria-label="Oral"> 
+   <span class="rainbow-spotlight" aria-label="Oral"> 
+    <span style="--i:0">M</span>
+    <span style="--i:1">e</span>
+    <span style="--i:2">r</span>
+    <span style="--i:3">g</span>
+    <span style="--i:4">e</span>
+    <span style="--i:5">D</span>
+    <span style="--i:6">N</span>
+    <span style="--i:7">A</span>
+  </span>
+
+  <span class="rainbow-spotlight" aria-label="Oral"> 
     <span style="--i:0">O</span>
     <span style="--i:1">R</span>
     <span style="--i:2">A</span>
