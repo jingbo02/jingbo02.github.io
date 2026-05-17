@@ -1,6 +1,35 @@
 <h1>⚛️ Open Source Projects</h1>
 
 <style>
+  .rainbow-spotlight {
+  display: inline-flex;
+  font-weight: 800;
+}
+
+  .rainbow-spotlight span {
+    display: inline-block;
+    animation: spotlight-bounce 0.9s ease-in-out infinite;
+    animation-delay: calc(var(--i) * 0.08s);
+  }
+
+  .rainbow-spotlight span:nth-child(1) { color: #ff3b30; }
+  .rainbow-spotlight span:nth-child(2) { color: #ff9500; }
+  .rainbow-spotlight span:nth-child(3) { color: #ffcc00; }
+  .rainbow-spotlight span:nth-child(4) { color: #34c759; }
+  .rainbow-spotlight span:nth-child(5) { color: #00c7be; }
+  .rainbow-spotlight span:nth-child(6) { color: #007aff; }
+  .rainbow-spotlight span:nth-child(7) { color: #5856d6; }
+  .rainbow-spotlight span:nth-child(8) { color: #af52de; }
+  .rainbow-spotlight span:nth-child(9) { color: #ff2d55; }
+
+  @keyframes spotlight-bounce {
+    0%, 100% {
+      transform: translateY(0) scale(1);
+    }
+    50% {
+      transform: translateY(-5px) scale(1.15);
+    }
+  }
   .project-box {
     display: flex;
     flex-direction: row;   /* 横向布局：图片在左，文字在右 */
