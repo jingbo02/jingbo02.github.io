@@ -5,44 +5,50 @@
 
 
 <!-- Publication Statistics Cards -->
+<!-- Publication Statistics Cards -->
 <div class="pub-stats-cards">
   <div class="pub-stats-card">
     <div class="pub-stats-card__number">16</div>
     <div class="pub-stats-card__label">CCF-A</div>
     <div class="pub-stats-card__sub">3 first author; 3 co-first author; 10 co-author;</div>
   </div>
+
   <div class="pub-stats-card">
     <div class="pub-stats-card__number">3</div>
     <div class="pub-stats-card__label">SCI-Q1/CCF-B</div>
     <div class="pub-stats-card__sub">3 co-author;</div>
   </div>
+
   <div class="pub-stats-card">
     <div class="pub-stats-card__number">55</div>
     <div class="pub-stats-card__label">Citations</div>
     <div class="pub-stats-card__sub">Google Scholar</div>
   </div>
+
   <div class="pub-stats-card">
     <div class="pub-stats-card__number">3</div>
     <div class="pub-stats-card__label">
-    <span class="rainbow-spotlight" aria-label="Oral"> 
-    <span style="--i:0">O</span>
-    <span style="--i:1">R</span>
-    <span style="--i:2">A</span>
-    <span style="--i:3">L</span>
-    <span style="--i:4">/</span>
-    </span>
-    <span class="rainbow-spotlight" aria-label="spotlight">
-    <span style="--i:0">S</span>
-    <span style="--i:1">P</span>
-    <span style="--i:2">O</span>
-    <span style="--i:3">T</span>
-    <span style="--i:4">L</span>
-    <span style="--i:5">I</span>
-    <span style="--i:6">G</span>
-    <span style="--i:7">H</span>
-    <span style="--i:8">T</span> </div>
-    <div class="pub-stats-card__sub">ICML,AAAI,KDD</div>
-  </span>
+      <span class="rainbow-spotlight" aria-label="Oral">
+        <span style="--i:0">O</span>
+        <span style="--i:1">R</span>
+        <span style="--i:2">A</span>
+        <span style="--i:3">L</span>
+        <span style="--i:4">/</span>
+      </span>
+      <span class="rainbow-spotlight" aria-label="Spotlight">
+        <span style="--i:5">S</span>
+        <span style="--i:6">P</span>
+        <span style="--i:7">O</span>
+        <span style="--i:8">T</span>
+        <span style="--i:9">L</span>
+        <span style="--i:10">I</span>
+        <span style="--i:11">G</span>
+        <span style="--i:12">H</span>
+        <span style="--i:13">T</span>
+      </span>
+    </div>
+    <div class="pub-stats-card__sub">ICML, AAAI, KDD</div>
+  </div>
 </div>
 
 <style>
