@@ -8,7 +8,7 @@
 
 <div style="max-height: 200px; overflow-y: auto;">
 <ul>
-  <li><em>2025.09:</em> ✨✨✨ One co-first author paper on AIVC Multi-Omics was accepted by <strong>KDD 2026 Benchmark and Dataset Track</strong>!</li> 
+  <li><em>2025.09:</em> ✨✨✨ One co-first author paper on AIVC Multi-Omics Translation was accepted by <strong>KDD 2026 Benchmark and Dataset Track</strong>!</li> 
   <li>
   <em>2026.05:</em> ✨✨✨ Two co-authored papers on Artificial Intelligence Virtual Cell 
  and DeNovo Peptide Sequencing (🔥🔥🔥 
