@@ -40,10 +40,9 @@
     <span style="--i:5">I</span>
     <span style="--i:6">G</span>
     <span style="--i:7">H</span>
-    <span style="--i:8">T</span>
+    <span style="--i:8">T</span> </div>
     <div class="pub-stats-card__sub">ICML,AAAI,KDD</div>
   </span>
-    </div>
 </div>
 
 <style>
