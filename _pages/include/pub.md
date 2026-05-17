@@ -323,6 +323,61 @@
   </div>
 </div>
 
+<div class='paper-box' data-domain="AI Virtual Cell">
+  <div class='paper-box-image'>
+    <span class="conference-label">KDD 2026</span>
+    <img src="../images/kdd26/scTranslation.png" alt="sym" width="100%">
+  </div>
+  <div class='paper-box-text'>
+    <p><a href="https://github.com/jingbo02/jingbo02.github.io"><strong>scTranslation: A Comprehensive Benchmark for Single-Cell Multi-Omics Modality Translation</strong></a></p>
+    <p>Jiabei Cheng&dagger;, <strong><u>Jingbo Zhou&dagger;</u></strong>, Jun Xia, Changkai Li, Zhen Lei, Chang Yu, Stan Z. Li</p>
+  </div>
+</div>
+
+<div class='paper-box' data-domain="De novo Peptide Sequencing">
+  <div class='paper-box-image'>
+    <span class="conference-label">KDD 2026</span>
+    <img src="../images/kdd26/memnovo.png" alt="sym" width="100%">
+  </div>
+  <div class='paper-box-text'>
+    <p><a href="https://github.com/jingbo02/jingbo02.github.io"><strong>MemNovo: Look Back at the Spectrum for Balanced De Novo Peptide Sequencing from Mass Spectrometry</strong></a></p>
+    <p>Dongxin Lyu, <strong><u>Jingbo Zhou</u></strong>, Hongxin Xiang, Yuqiang Li, Jun Xia</p>
+  </div>
+</div>
+
+<div class='paper-box' data-domain="AI Virtual Cell">
+  <div class='paper-box-image'>
+    <span class="conference-label">KDD 2026</span>
+    <img src="../images/kdd26/scHelix.png" alt="sym" width="100%">
+  </div>
+  <div class='paper-box-text'>
+    <p><a href="https://github.com/jingbo02/jingbo02.github.io"><strong>scHelix: Asymmetric Dual-Stream Integration via Explicit Gene-Level Disentanglement</strong></a></p>
+    <p>Xichen Yan, Zelin Zang, Changxi Chi, <strong><u>Jingbo Zhou</u></strong>, Chang Yu, Jinlin Wu, Shenghui Cheng, Fuji Yang, Jiebo Luo, Zhen Lei, Stan Z. Li</p> <br>🔥 KDD 2026 Oral Presentation
+  </div>
+</div>
+
+<div class='paper-box' data-domain="AI Virtual Cell">
+  <div class='paper-box-image'>
+    <span class="conference-label">ICML 2026</span>
+    <img src="../images/icml26/GFG.png" alt="sym" width="100%">
+  </div>
+  <div class='paper-box-text'>
+    <p><a href="https://github.com/jingbo02/jingbo02.github.io"><strong>Geometric Flow Grounding: A Unified Manifold Decoupling Framework for Dynamics Discovery and Verification</strong></a></p>
+    <p>Chang Yu, Yuxuan Luo, Yixuan Du, Yuqing Zhou, Siyuan Li, <strong><u>Jingbo Zhou</u></strong>, Jiawei Jiang, Zhen Lei, Stan Z. Li</p>
+  </div> <br>🔥 ICML 2026 Spotlight Presentation
+</div>
+
+<div class='paper-box' data-domain="AI Virtual Cell">
+  <div class='paper-box-image'>
+    <span class="conference-label">ICML 2026</span>
+    <img src="../images/xxx/HDTree.png" alt="sym" width="100%">
+  </div>
+  <div class='paper-box-text'>
+    <p><a href="https://github.com/jingbo02/jingbo02.github.io"><strong>HDTree: Generative Modeling of Cellular Hierarchies for Robust Lineage Inference</strong></a></p>
+    <p>Zelin Zang, WenZhe Li, Yongjie Xu, Chang Yu, Changxi Chi, <strong><u>Jingbo Zhou</u></strong>, Zhen Lei, Stan Z. Li</p>
+  </div>
+</div>
+
 <script>
 (function () {
   const buttons = Array.from(document.querySelectorAll('.pub-filter__btn'));
