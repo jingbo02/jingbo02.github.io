@@ -363,14 +363,14 @@
   </div>
   <div class='paper-box-text'>
     <p><a href="https://github.com/jingbo02/jingbo02.github.io"><strong>Geometric Flow Grounding: A Unified Manifold Decoupling Framework for Dynamics Discovery and Verification</strong></a></p>
-    <p>Chang Yu, Yuxuan Luo, Yixuan Du, Yuqing Zhou, Siyuan Li, <strong><u>Jingbo Zhou</u></strong>, Jiawei Jiang, Zhen Lei, Stan Z. Li</p>
-  </div> <br>🔥 ICML 2026 Spotlight Presentation
+    <p>Chang Yu, Yuxuan Luo, Yixuan Du, Yuqing Zhou, Siyuan Li, <strong><u>Jingbo Zhou</u></strong>, Jiawei Jiang, Zhen Lei, Stan Z. Li</p> 🔥 ICML 2026 Spotlight Presentation
+  </div> <br>
 </div>
 
 <div class='paper-box' data-domain="AI Virtual Cell">
   <div class='paper-box-image'>
     <span class="conference-label">ICML 2026</span>
-    <img src="../images/xxx/HDTree.png" alt="sym" width="100%">
+    <img src="../images/icml26/HDTree.png" alt="sym" width="100%">
   </div>
   <div class='paper-box-text'>
     <p><a href="https://github.com/jingbo02/jingbo02.github.io"><strong>HDTree: Generative Modeling of Cellular Hierarchies for Robust Lineage Inference</strong></a></p>
