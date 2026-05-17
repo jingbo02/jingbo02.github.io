@@ -103,7 +103,7 @@
   <button class="pub-filter__btn" role="tab" aria-selected="false" data-filter="Graph Neural Networks">Graph Neural Networks</button>
   <button class="pub-filter__btn" role="tab" aria-selected="false" data-filter="AI Virtual Cell">AI Virtual Cell</button>
   <!-- <span class="pub-filter__count" aria-live="polite"></span> -->
-    <button class="pub-filter__btn" role="tab" aria-selected="false" data-filter="Video Generation">Video Generation</button>
+    <button class="pub-filter__btn" role="tab" aria-selected="false" data-filter="Video">Video</button>
   <span class="pub-filter__count" aria-live="polite"></span>
 </div>
 
@@ -300,7 +300,7 @@
 </div>
 
 
-<div class='paper-box' data-domain="Video Generation">
+<div class='paper-box' data-domain="Video">
   <div class='paper-box-image'>
     <span class="conference-label">ICLR 2026</span>
     <img src="../images/iclr26/steinsgate.png" alt="sym" width="100%">
