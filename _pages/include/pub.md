@@ -7,9 +7,9 @@
 <!-- Publication Statistics Cards -->
 <div class="pub-stats-cards">
   <div class="pub-stats-card">
-    <div class="pub-stats-card__number">12</div>
+    <div class="pub-stats-card__number">16</div>
     <div class="pub-stats-card__label">CCF-A</div>
-    <div class="pub-stats-card__sub">3 first author; 3 co-first author; 6 co-author;</div>
+    <div class="pub-stats-card__sub">3 first author; 3 co-first author; 10 co-author;</div>
   </div>
   <div class="pub-stats-card">
     <div class="pub-stats-card__number">3</div>
