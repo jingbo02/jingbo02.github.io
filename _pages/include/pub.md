@@ -16,7 +16,6 @@
     <div class="pub-stats-card__label">SCI-Q1/CCF-B</div>
     <div class="pub-stats-card__sub">3 co-author;</div>
   </div>
-    <div class="pub-stats-card__sub">AAAI,ICML,KDD</div>
   </div>
   <div class="pub-stats-card">
     <div class="pub-stats-card__number">53</div>
@@ -43,6 +42,7 @@
     <span style="--i:6">G</span>
     <span style="--i:7">H</span>
     <span style="--i:8">T</span>
+    <div class="pub-stats-card__sub">ICML,AAAI,KDD</div>
   </span>
     </div>
 </div>
