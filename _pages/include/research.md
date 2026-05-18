@@ -40,6 +40,4 @@ b) AI for Science
 
 # 🔎 Research Interests
 
-<p align="center">
-  <img src="../images/image.png" width="600">
-</p>
+![image](../images/image.png)
