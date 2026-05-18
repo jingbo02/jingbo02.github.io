@@ -40,16 +40,6 @@ b) AI for Science
 
 # 🔎 Research Interests
 
-<img align="right" src="../images/image.png" width="300">
-
-**"Man is the measure of all things"**
-
-a) Foundation Model
-
-- Agentic System
-- Graph Foundation Model
-
-b) AI for Science
-
-- Computational Biochemistry
-- Artificial Intelligence Virtual Cell
+<p align="center">
+  <img src="../images/image.png" width="600">
+</p>
