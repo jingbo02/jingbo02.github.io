@@ -38,6 +38,6 @@ b) AI for Science
 </tr>
 </table> -->
 
-# 🔎 Research Interests
+# 🔎 Research Framework
 
 ![image](../images/image.png)
