@@ -29,7 +29,7 @@
   </span>) 
   were accepted by <strong>KDD 2026 AI4Science Track</strong>. Congratulations to @Jun Xia & @Zelin Zang! 
   </li>
-  <li><em>2026.05:</em> 🕶️🕶️🕶️ Invitation to serve as a reviewer for <strong>GFM Workshop @ ICML 2026</strong>!</li>
+  <li><em>2026.05:</em> 🕶️🕶️🕶️ Invitation to serve as a reviewer for <strong>GFM & FM4LS Workshop @ ICML 2026</strong>!</li>
   <li><em>2026.05:</em> 🎓🎓🎓 Became a member of <strong>China Society of Image and Graphics (CSIG)</strong>!</li>
   <!-- <li><em>2026.05:</em> ✨✨✨ Two co-authored paper on Artificial Intelligence Virtual Cell (🔥🔥🔥 GFG spotlight) were accepted by <strong>ICML 2026</strong>. Congratulation to @Chang Yu! </li>  -->
   <li>
