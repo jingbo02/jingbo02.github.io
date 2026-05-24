@@ -6,8 +6,12 @@
 # 🔥 News
 
 
+
+
+
 <div style="max-height: 200px; overflow-y: auto;">
 <ul>
+  <li><em>2026.05:</em> 🕶️🕶️🕶️ Invitation to serve as a reviewer for <strong>IEEE Journal of Biomedical and Health Informatics</strong>!</li>
   <li><em>2026.05:</em> ✨✨✨ One co-first author paper on AIVC Multi-Omics Translation was accepted by <strong>KDD 2026 Benchmark and Dataset Track</strong>!</li> 
   <li>
   <em>2026.05:</em> ✨✨✨ Two co-authored papers on Artificial Intelligence Virtual Cell 

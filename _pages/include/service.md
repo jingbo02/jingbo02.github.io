@@ -7,7 +7,7 @@
 - Reviewer for Analytical Chemistry
 - Reviewer for MedComm – Future Medicine
 - Reviewer for Pattern Recognition 
-- Reviewer for TKDD, TCBB
+- Reviewer for TKDD, TCBB, JBHI
 
 ## Conference Reviewer
 - Reviewer for NeurIPS'2024, 2025
