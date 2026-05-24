@@ -13,7 +13,7 @@
 <ul>
   <li>
   <em>2026.05:</em> ✨✨✨ GFG (ICML 2026) was selected as 
-  <span class="rainbow-oral" aria-label="oral">
+  <span class="rainbow-spotlight" aria-label="oral">
     <span style="--i:0">O</span>
     <span style="--i:1">R</span>
     <span style="--i:2">A</span>
