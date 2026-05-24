@@ -33,7 +33,6 @@
         <span style="--i:1">R</span>
         <span style="--i:2">A</span>
         <span style="--i:3">L</span>
-        <span style="--i:4">/</span>
       </span>
       <!-- <span class="rainbow-spotlight" aria-label="Spotlight">
         <span style="--i:5">S</span>
