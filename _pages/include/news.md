@@ -11,6 +11,15 @@
 
 <div style="max-height: 200px; overflow-y: auto;">
 <ul>
+  <li>
+  <em>2026.05:</em> ✨✨✨ GFG (ICML 2026) was selected as 
+  <span class="rainbow-oral" aria-label="oral">
+    <span style="--i:0">O</span>
+    <span style="--i:1">R</span>
+    <span style="--i:2">A</span>
+    <span style="--i:3">L</span>
+  </span> presentation!!! Congratulations to @Chang Yu!
+  </li>
   <li><em>2026.05:</em> 🕶️🕶️🕶️ Invitation to serve as a reviewer for <strong>IEEE Journal of Biomedical and Health Informatics</strong>!</li>
   <li><em>2026.05:</em> ✨✨✨ One co-first author paper on AIVC Multi-Omics Translation was accepted by <strong>KDD 2026 Benchmark and Dataset Track</strong>!</li> 
   <li>

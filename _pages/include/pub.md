@@ -35,7 +35,7 @@
         <span style="--i:3">L</span>
         <span style="--i:4">/</span>
       </span>
-      <span class="rainbow-spotlight" aria-label="Spotlight">
+      <!-- <span class="rainbow-spotlight" aria-label="Spotlight">
         <span style="--i:5">S</span>
         <span style="--i:6">P</span>
         <span style="--i:7">O</span>
@@ -45,7 +45,7 @@
         <span style="--i:11">G</span>
         <span style="--i:12">H</span>
         <span style="--i:13">T</span>
-      </span>
+      </span> -->
     </div>
     <div class="pub-stats-card__sub">ICML, AAAI, KDD</div>
   </div>
@@ -363,7 +363,7 @@
   </div>
   <div class='paper-box-text'>
     <p><a href="https://github.com/jingbo02/jingbo02.github.io"><strong>Geometric Flow Grounding: A Unified Manifold Decoupling Framework for Dynamics Discovery and Verification</strong></a></p>
-    <p>Chang Yu, Yuxuan Luo, Yixuan Du, Yuqing Zhou, Siyuan Li, <strong><u>Jingbo Zhou</u></strong>, Jiawei Jiang, Zhen Lei, Stan Z. Li</p> 🔥 ICML 2026 Spotlight Presentation
+    <p>Chang Yu, Yuxuan Luo, Yixuan Du, Yuqing Zhou, Siyuan Li, <strong><u>Jingbo Zhou</u></strong>, Jiawei Jiang, Zhen Lei, Stan Z. Li</p> 🔥 ICML 2026 Oral Presentation
   </div> <br>
 </div>
 
