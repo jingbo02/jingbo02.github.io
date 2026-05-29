@@ -14,9 +14,9 @@
   </div>
 
   <div class="pub-stats-card">
-    <div class="pub-stats-card__number">3</div>
-    <div class="pub-stats-card__label">SCI-Q1/CCF-B</div>
-    <div class="pub-stats-card__sub">3 co-author;</div>
+    <div class="pub-stats-card__number">6</div>
+    <div class="pub-stats-card__label">SCI-Q1/CCF-A WS/CCF-B</div>
+    <div class="pub-stats-card__sub">1 first author; 1 co-first author; 4 co-author;</div>
   </div>
 
   <div class="pub-stats-card">
