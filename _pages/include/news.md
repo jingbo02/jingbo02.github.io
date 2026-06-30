@@ -11,6 +11,7 @@
 
 <div style="max-height: 200px; overflow-y: auto;">
 <ul>
+    <li><em>2026.06:</em> 🕶️🕶️🕶️ Invitation to serve as a reviewer for <strong>KDD 2027 and AAAI 2027</strong>.</li> 
     <li><em>2026.05:</em> ✨✨✨ Two co-first author paper(VCWM, VirtualCeLLM) and one co-author paper(LoRec) were accepted by <strong>ICML2026 FM4LS & GFM </strong>! Congratulations to @Chang Yu & @Jun Xia!</li> 
   <li>
   <em>2026.05:</em> ✨✨✨ GFG (ICML 2026) was selected as 
