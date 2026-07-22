@@ -20,7 +20,7 @@
   </div>
 
   <div class="pub-stats-card">
-    <div class="pub-stats-card__number">67</div>
+    <div class="pub-stats-card__number">71</div>
     <div class="pub-stats-card__label">Citations</div>
     <div class="pub-stats-card__sub">Google Scholar</div>
   </div>
@@ -139,6 +139,19 @@
 </style>
 
 <!-- Example entries -->
+<div class='paper-box' data-domain="AI Virtual Cell">
+  <div class='paper-box-image'>
+    <span class="conference-label">Preprint</span>
+    <img src="../images/preprint/VCWM.png" alt="sym" width="100%">
+  </div>
+  <div class='paper-box-text'>
+    <p><a href="[https://arxiv.org/abs/2406.11906](https://assets-eu.researchsquare.com/files/rs-10404367/v1_covered_8ce54bea-f8e6-4000-aaaf-e4cbec5bf465.pdf?c=1784638786)"><strong>What Makes a Virtual Cell a World Model? Three
+Gaps, Three Experiments, and a Roadmap</strong></a></p>
+    <p><strong>VCWorldModel Team</strong></p>
+  </div>
+</div>
+
+
 <div class='paper-box' data-domain="De novo Peptide Sequencing">
   <div class='paper-box-image'>
     <span class="conference-label">NeurIPS 2024</span>
