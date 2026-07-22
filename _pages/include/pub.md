@@ -145,7 +145,7 @@
     <img src="../images/preprint/VCWM.png" alt="sym" width="100%">
   </div>
   <div class='paper-box-text'>
-    <p><a href="[https://arxiv.org/abs/2406.11906](https://assets-eu.researchsquare.com/files/rs-10404367/v1_covered_8ce54bea-f8e6-4000-aaaf-e4cbec5bf465.pdf?c=1784638786)"><strong>What Makes a Virtual Cell a World Model? Three
+    <p><a href="[https://www.researchsquare.com/article/rs-10404367/v1](https://www.researchsquare.com/article/rs-10404367/v1)"><strong>What Makes a Virtual Cell a World Model? Three
 Gaps, Three Experiments, and a Roadmap</strong></a></p>
     <p><strong>VCWorldModel Team</strong></p>
   </div>
