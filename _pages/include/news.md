@@ -11,7 +11,8 @@
 
 <div style="max-height: 200px; overflow-y: auto;">
 <ul>
-    <li><em>2026.08:</em> ✨✨✨ Our work MemNovo received the Outstanding Paper Award at the RelSciFM Workshop at KDD 2026!</li>
+    <li><em>2026.08:</em> ✨✨✨Our paper “Expanding the RNA Virus Universe by Scalable Structure-Guided Discovery” has been accepted in <strong>Nature Communications</strong>. Congratulations to @Gaoyang Luo</li>
+    <li><em>2026.08:</em> ✨✨✨ Our work MemNovo received the <strong>Outstanding Paper Award</strong> at the RelSciFM Workshop at KDD 2026!</li>
     <li><em>2026.07:</em> ✨✨✨ Our new work Virtual Cell World Model is online!</li> 
     <li><em>2026.06:</em> 🕶️🕶️🕶️ Invitation to serve as a reviewer for <strong>KDD 2027 and AAAI 2027</strong>.</li> 
     <li><em>2026.05:</em> ✨✨✨ Two co-first author paper(VCWM, VirtualCeLLM) and one co-author paper(LoRec) were accepted by <strong>ICML2026 FM4LS & GFM </strong>! Congratulations to @Chang Yu & @Jun Xia!</li> 
