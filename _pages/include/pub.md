@@ -20,7 +20,7 @@
   </div>
 
   <div class="pub-stats-card">
-    <div class="pub-stats-card__number">71</div>
+    <div class="pub-stats-card__number" id="total_cit">77</div>
     <div class="pub-stats-card__label">Citations</div>
     <div class="pub-stats-card__sub">Google Scholar</div>
   </div>
