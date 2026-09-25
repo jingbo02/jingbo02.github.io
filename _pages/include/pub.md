@@ -8,15 +8,15 @@
 <!-- Publication Statistics Cards -->
 <div class="pub-stats-cards">
   <div class="pub-stats-card">
-    <div class="pub-stats-card__number">21</div>
+    <div class="pub-stats-card__number">19</div>
     <div class="pub-stats-card__label">CCF-A &amp; Nature Portfolio</div>
-    <div class="pub-stats-card__sub">3 first author; 5 co-first author; 13 co-author;</div>
+    <div class="pub-stats-card__sub">3 first author; 4 co-first author; 12 co-author;</div>
   </div>
 
   <div class="pub-stats-card">
-    <div class="pub-stats-card__number">2</div>
+    <div class="pub-stats-card__number">5</div>
     <div class="pub-stats-card__label">SCI-Q1/CCF-A WS/CCF-B</div>
-    <div class="pub-stats-card__sub">0 first author; 0 co-first author; 2 co-author;</div>
+    <div class="pub-stats-card__sub">0 first author; 1 co-first author; 4 co-author;</div>
   </div>
 
   <div class="pub-stats-card">
