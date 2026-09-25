@@ -9,6 +9,7 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    timeout-minutes: 20
     permissions:
       contents: write
     steps:
@@ -23,7 +24,7 @@ jobs:
     - name: Run
       working-directory: ./google_scholar_crawler
       run: |
-        python main.py
+        timeout 10m python main.py
         cd ./results
         git init
         git config --local user.name "${GITHUB_ACTOR}"
