@@ -11,7 +11,9 @@
 
 <div style="max-height: 200px; overflow-y: auto;">
 <ul>
-    <li><em>2026.08:</em> ✨✨✨Our paper “Expanding the RNA Virus Universe by Scalable Structure-Guided Discovery” has been accepted in <strong>Nature Communications</strong>. Congratulations to @Gaoyang Luo！</li>
+    <li><em>2026.09:</em> ✨✨✨ Our paper “Deep learning coupled with scalable domain-specific structural validation expands RNA virus discovery from metatranscriptomes” has been accepted and published in <strong>Nature Communications</strong>. Congratulations to @Gaoyang Luo!</li>
+    <li><em>2026.09:</em> ✨✨✨ Our paper “LoReC: Rethinking Large Language Models for Graph Data Analysis” has been accepted by <strong>NeurIPS 2026</strong>!</li>
+    <li><em>2026.09:</em> ✨✨✨ One co-authored paper “Graph Transformers and Graph Neural Networks Are Good Teachers for Each Other” has been accepted by <strong>Pattern Recognition</strong>!</li>
     <li><em>2026.08:</em> ✨✨✨ Our work MemNovo received the <strong>Outstanding Paper Award</strong> at the RelSciFM Workshop at KDD 2026!</li>
     <li><em>2026.07:</em> ✨✨✨ Our new work Virtual Cell World Model is online!</li> 
     <li><em>2026.06:</em> 🕶️🕶️🕶️ Invitation to serve as a reviewer for <strong>KDD 2027 and AAAI 2027</strong>.</li> 

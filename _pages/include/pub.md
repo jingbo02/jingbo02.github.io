@@ -8,15 +8,15 @@
 <!-- Publication Statistics Cards -->
 <div class="pub-stats-cards">
   <div class="pub-stats-card">
-    <div class="pub-stats-card__number">17</div>
+    <div class="pub-stats-card__number">18</div>
     <div class="pub-stats-card__label">CCF-A</div>
-    <div class="pub-stats-card__sub">3 first author; 4 co-first author; 10 co-author;</div>
+    <div class="pub-stats-card__sub">3 first author; 4 co-first author; 11 co-author;</div>
   </div>
 
   <div class="pub-stats-card">
-    <div class="pub-stats-card__number">6</div>
+    <div class="pub-stats-card__number">8</div>
     <div class="pub-stats-card__label">SCI-Q1/CCF-A WS/CCF-B</div>
-    <div class="pub-stats-card__sub">1 first author; 1 co-first author; 4 co-author;</div>
+    <div class="pub-stats-card__sub">1 first author; 1 co-first author; 6 co-author;</div>
   </div>
 
   <div class="pub-stats-card">
@@ -139,6 +139,39 @@
 </style>
 
 <!-- Example entries -->
+<div class='paper-box' data-domain="AI Virtual Cell">
+  <div class='paper-box-image'>
+    <span class="conference-label">Nature Communications</span>
+    <img src="../images/natcomm26/rnavirus.png" alt="sym" width="100%">
+  </div>
+  <div class='paper-box-text'>
+    <p><a href="https://www.nature.com/articles/s41467-026-77183-y"><strong>Deep learning coupled with scalable domain-specific structural validation expands RNA virus discovery from metatranscriptomes</strong></a></p>
+    <p>Gaoyang Luo, Zelin Zang, Ling Yuan, <strong><u>Jingbo Zhou</u></strong>, Ao Dong, Yufei Huang, Stan Z. Li, Feng Ju</p>
+  </div>
+</div>
+
+<div class='paper-box' data-domain="Graph Neural Networks">
+  <div class='paper-box-image'>
+    <span class="conference-label">NeurIPS 2026</span>
+    <img src="../images/nips26/lorec.png" alt="sym" width="100%">
+  </div>
+  <div class='paper-box-text'>
+    <p><a href="https://arxiv.org/abs/2604.17897"><strong>LoReC: Rethinking Large Language Models for Graph Data Analysis</strong></a></p>
+    <p>Hongyu Zhan, Qixin Wang, Yusen Tan, Haitao Yu, <strong><u>Jingbo Zhou</u></strong>, Shuai Chen, Jia Li, Xiao Tan, Jun Xia</p>
+  </div>
+</div>
+
+<div class='paper-box' data-domain="Graph Neural Networks">
+  <div class='paper-box-image'>
+    <span class="conference-label">Pattern Recognition</span>
+    <img src="../images/pr/graph_teachers.png" alt="sym" width="100%">
+  </div>
+  <div class='paper-box-text'>
+    <p><a href="https://doi.org/10.2139/ssrn.6795461"><strong>Graph Transformers and Graph Neural Networks Are Good Teachers for Each Other</strong></a></p>
+    <p>Yunfan Liu, Lirong Wu, Zihan Liu, Yufei Huang, <strong><u>Jingbo Zhou</u></strong>, Changxi Chi, Shaorong Chen, Chang Yu, Stan Z. Li</p>
+  </div>
+</div>
+
 <div class='paper-box' data-domain="AI Virtual Cell">
   <div class='paper-box-image'>
     <span class="conference-label">Preprint</span>
