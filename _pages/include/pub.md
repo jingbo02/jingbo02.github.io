@@ -16,7 +16,7 @@
   <div class="pub-stats-card">
     <div class="pub-stats-card__number">5</div>
     <div class="pub-stats-card__label">SCI-Q1/CCF-A WS/CCF-B</div>
-    <div class="pub-stats-card__sub">0 first author; 1 co-first author; 4 co-author;</div>
+    <div class="pub-stats-card__sub">0 first author; 2 co-first author; 3 co-author;</div>
   </div>
 
   <div class="pub-stats-card">
@@ -172,9 +172,9 @@
   </div>
 </div>
 
-<div class='paper-box' data-author-role="coauthor" data-domain="AI Virtual Cell">
+<div class='paper-box' data-author-role="cofirst" data-domain="AI Virtual Cell">
   <div class='paper-box-image'>
-    <span class="conference-label">Preprint</span>
+    <span class="conference-label">ICML 2026 Workshop</span>
     <img src="../images/preprint/VCWM.png" alt="sym" width="100%">
   </div>
   <div class='paper-box-text'>
