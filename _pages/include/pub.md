@@ -8,15 +8,15 @@
 <!-- Publication Statistics Cards -->
 <div class="pub-stats-cards">
   <div class="pub-stats-card">
-    <div class="pub-stats-card__number">18</div>
-    <div class="pub-stats-card__label">CCF-A</div>
-    <div class="pub-stats-card__sub">3 first author; 4 co-first author; 11 co-author;</div>
+    <div class="pub-stats-card__number">21</div>
+    <div class="pub-stats-card__label">CCF-A &amp; Nature Portfolio</div>
+    <div class="pub-stats-card__sub">3 first author; 5 co-first author; 13 co-author;</div>
   </div>
 
   <div class="pub-stats-card">
-    <div class="pub-stats-card__number">8</div>
+    <div class="pub-stats-card__number">2</div>
     <div class="pub-stats-card__label">SCI-Q1/CCF-A WS/CCF-B</div>
-    <div class="pub-stats-card__sub">1 first author; 1 co-first author; 6 co-author;</div>
+    <div class="pub-stats-card__sub">0 first author; 0 co-first author; 2 co-author;</div>
   </div>
 
   <div class="pub-stats-card">
@@ -139,7 +139,7 @@
 </style>
 
 <!-- Example entries -->
-<div class='paper-box' data-domain="AI Virtual Cell">
+<div class='paper-box' data-author-role="coauthor" data-domain="AI Virtual Cell">
   <div class='paper-box-image'>
     <span class="conference-label">Nature Communications</span>
     <img src="../images/natcomm26/rnavirus.png" alt="sym" width="100%">
@@ -150,7 +150,7 @@
   </div>
 </div>
 
-<div class='paper-box' data-domain="Graph Neural Networks">
+<div class='paper-box' data-author-role="coauthor" data-domain="Graph Neural Networks">
   <div class='paper-box-image'>
     <span class="conference-label">NeurIPS 2026</span>
     <img src="../images/nips26/lorec.png" alt="sym" width="100%">
@@ -161,7 +161,7 @@
   </div>
 </div>
 
-<div class='paper-box' data-domain="Graph Neural Networks">
+<div class='paper-box' data-author-role="coauthor" data-domain="Graph Neural Networks">
   <div class='paper-box-image'>
     <span class="conference-label">Pattern Recognition</span>
     <img src="../images/pr/graph_teachers.png" alt="sym" width="100%">
@@ -172,7 +172,7 @@
   </div>
 </div>
 
-<div class='paper-box' data-domain="AI Virtual Cell">
+<div class='paper-box' data-author-role="coauthor" data-domain="AI Virtual Cell">
   <div class='paper-box-image'>
     <span class="conference-label">Preprint</span>
     <img src="../images/preprint/VCWM.png" alt="sym" width="100%">
@@ -185,7 +185,7 @@ Gaps, Three Experiments, and a Roadmap</strong></a></p>
 </div>
 
 
-<div class='paper-box' data-domain="De novo Peptide Sequencing">
+<div class='paper-box' data-author-role="first" data-domain="De novo Peptide Sequencing">
   <div class='paper-box-image'>
     <span class="conference-label">NeurIPS 2024</span>
     <img src="../images/nips24/novobench.png" alt="sym" width="100%">
@@ -196,7 +196,7 @@ Gaps, Three Experiments, and a Roadmap</strong></a></p>
   </div>
 </div>
 
-<div class='paper-box' data-domain="Graph Neural Networks">
+<div class='paper-box' data-author-role="first" data-domain="Graph Neural Networks">
   <div class='paper-box-image'>
     <span class="conference-label">WWW 2026</span>
     <img src="../images/www26/vecformer.png" alt="sym" width="100%">
@@ -207,7 +207,7 @@ Gaps, Three Experiments, and a Roadmap</strong></a></p>
   </div>
 </div>
 
-<div class='paper-box' data-domain="Graph Neural Networks">
+<div class='paper-box' data-author-role="first" data-domain="Graph Neural Networks">
   <div class='paper-box-image'>
     <span class="conference-label">NeurIPS 2024</span>
     <img src="../images/nips24/psnr.png" alt="sym" width="100%">
@@ -218,7 +218,7 @@ Gaps, Three Experiments, and a Roadmap</strong></a></p>
   </div>
 </div>
 
-<div class='paper-box' data-domain="De novo Peptide Sequencing">
+<div class='paper-box' data-author-role="cofirst" data-domain="De novo Peptide Sequencing">
   <div class='paper-box-image'>
     <span class="conference-label">NeurIPS 2024</span>
     <img src="../images/nips24/adanovo.PNG" alt="sym" width="100%">
@@ -229,7 +229,7 @@ Gaps, Three Experiments, and a Roadmap</strong></a></p>
   </div>
 </div>
 
-<div class='paper-box' data-domain="De novo Peptide Sequencing">
+<div class='paper-box' data-author-role="cofirst" data-domain="De novo Peptide Sequencing">
   <div class='paper-box-image'>
     <span class="conference-label">ICLR 2025</span>
     <img src="../images/nips24/searchnovo.PNG" alt="sym" width="100%">
@@ -240,7 +240,7 @@ Gaps, Three Experiments, and a Roadmap</strong></a></p>
   </div>
 </div>
 
-<div class='paper-box' data-domain="De novo Peptide Sequencing">
+<div class='paper-box' data-author-role="cofirst" data-domain="De novo Peptide Sequencing">
   <div class='paper-box-image'>
     <span class="conference-label">ICLR 2025</span>
     <img src="../images/iclr25/ReNovo.png" alt="sym" width="100%">
@@ -251,7 +251,7 @@ Gaps, Three Experiments, and a Roadmap</strong></a></p>
   </div>
 </div>
 
-<div class='paper-box' data-domain="De novo Peptide Sequencing">
+<div class='paper-box' data-author-role="coauthor" data-domain="De novo Peptide Sequencing">
   <div class='paper-box-image'>
     <span class="conference-label">AAAI 2026</span>
     <img src="../images/aaai26/diffnovo.png" alt="sym" width="100%">
@@ -263,7 +263,7 @@ Gaps, Three Experiments, and a Roadmap</strong></a></p>
 </div>
 
 
-<div class='paper-box' data-domain="De novo Peptide Sequencing">
+<div class='paper-box' data-author-role="cofirst" data-domain="De novo Peptide Sequencing">
   <div class='paper-box-image'>
     <span class="conference-label">IJCAI 2025</span>
     <img src="../images/ijcai25/NovoSurvey.png" alt="sym" width="100%">
@@ -275,7 +275,7 @@ Gaps, Three Experiments, and a Roadmap</strong></a></p>
 </div>
 
 
-<div class='paper-box' data-domain="AI Virtual Cell">
+<div class='paper-box' data-author-role="coauthor" data-domain="AI Virtual Cell">
   <div class='paper-box-image'>
     <span class="conference-label">AAAI 2026</span>
     <img src="../images/aaai26/mergedna.png" alt="sym" width="100%">
@@ -288,7 +288,7 @@ Gaps, Three Experiments, and a Roadmap</strong></a></p>
 
 
 
-<div class='paper-box' data-domain="AI Virtual Cell">
+<div class='paper-box' data-author-role="coauthor" data-domain="AI Virtual Cell">
   <div class='paper-box-image'>
     <span class="conference-label">ICLR 2026</span>
     <img src="../images/iclr26/cdbridge.png" alt="sym" width="100%">
@@ -299,7 +299,7 @@ Gaps, Three Experiments, and a Roadmap</strong></a></p>
   </div>
 </div>
 
-<div class='paper-box' data-domain="AI Virtual Cell">
+<div class='paper-box' data-author-role="coauthor" data-domain="AI Virtual Cell">
   <div class='paper-box-image'>
     <span class="conference-label">NeurIPS 2025</span>
     <img src="../images/nips25/pres.png" alt="sym" width="100%">
@@ -310,7 +310,7 @@ Gaps, Three Experiments, and a Roadmap</strong></a></p>
   </div>
 </div>
 
-<div class='paper-box' data-domain="AI Virtual Cell">
+<div class='paper-box' data-author-role="coauthor" data-domain="AI Virtual Cell">
   <div class='paper-box-image'>
     <span class="conference-label">ICLR 2026</span>
     <img src="../images/iclr26/dolories.png" alt="sym" width="100%">
@@ -321,7 +321,7 @@ Gaps, Three Experiments, and a Roadmap</strong></a></p>
   </div>
 </div>
 
-<div class='paper-box' data-domain="AI Virtual Cell">
+<div class='paper-box' data-author-role="coauthor" data-domain="AI Virtual Cell">
   <div class='paper-box-image'>
     <span class="conference-label">IJCAI 2025</span>
     <img src="../images/ijcai25/Grape.png" alt="sym" width="100%">
@@ -333,7 +333,7 @@ Gaps, Three Experiments, and a Roadmap</strong></a></p>
 </div>
 
 
-<div class='paper-box' data-domain="Graph Neural Networks">
+<div class='paper-box' data-author-role="coauthor" data-domain="Graph Neural Networks">
   <div class='paper-box-image'>
     <span class="conference-label">Preprint</span>
     <img src="../images/preprint/NodeReg.png" alt="sym" width="100%">
@@ -345,7 +345,7 @@ Gaps, Three Experiments, and a Roadmap</strong></a></p>
 </div>
 
 
-<div class='paper-box' data-domain="Video">
+<div class='paper-box' data-author-role="coauthor" data-domain="Video">
   <div class='paper-box-image'>
     <span class="conference-label">ICLR 2026</span>
     <img src="../images/iclr26/steinsgate.png" alt="sym" width="100%">
@@ -357,7 +357,7 @@ Gaps, Three Experiments, and a Roadmap</strong></a></p>
   </div>
 </div>
 
-<div class='paper-box' data-domain="AI Virtual Cell">
+<div class='paper-box' data-author-role="coauthor" data-domain="AI Virtual Cell">
   <div class='paper-box-image'>
     <span class="conference-label">Pattern Recognition</span>
     <img src="../images/pr/vitamol.png" alt="sym" width="100%">
@@ -368,7 +368,7 @@ Gaps, Three Experiments, and a Roadmap</strong></a></p>
   </div>
 </div>
 
-<div class='paper-box' data-domain="AI Virtual Cell">
+<div class='paper-box' data-author-role="cofirst" data-domain="AI Virtual Cell">
   <div class='paper-box-image'>
     <span class="conference-label">KDD 2026</span>
     <img src="../images/kdd26/scTranslation.png" alt="sym" width="100%">
@@ -379,7 +379,7 @@ Gaps, Three Experiments, and a Roadmap</strong></a></p>
   </div>
 </div>
 
-<div class='paper-box' data-domain="De novo Peptide Sequencing">
+<div class='paper-box' data-author-role="coauthor" data-domain="De novo Peptide Sequencing">
   <div class='paper-box-image'>
     <span class="conference-label">KDD 2026</span>
     <img src="../images/kdd26/memnovo.png" alt="sym" width="100%">
@@ -390,7 +390,7 @@ Gaps, Three Experiments, and a Roadmap</strong></a></p>
   </div>
 </div>
 
-<div class='paper-box' data-domain="AI Virtual Cell">
+<div class='paper-box' data-author-role="coauthor" data-domain="AI Virtual Cell">
   <div class='paper-box-image'>
     <span class="conference-label">KDD 2026</span>
     <img src="../images/kdd26/scHelix.png" alt="sym" width="100%">
@@ -401,7 +401,7 @@ Gaps, Three Experiments, and a Roadmap</strong></a></p>
   </div>
 </div>
 
-<div class='paper-box' data-domain="AI Virtual Cell">
+<div class='paper-box' data-author-role="coauthor" data-domain="AI Virtual Cell">
   <div class='paper-box-image'>
     <span class="conference-label">ICML 2026</span>
     <img src="../images/icml26/GFG.png" alt="sym" width="100%">
@@ -412,7 +412,7 @@ Gaps, Three Experiments, and a Roadmap</strong></a></p>
   </div> <br>
 </div>
 
-<div class='paper-box' data-domain="AI Virtual Cell">
+<div class='paper-box' data-author-role="coauthor" data-domain="AI Virtual Cell">
   <div class='paper-box-image'>
     <span class="conference-label">ICML 2026</span>
     <img src="../images/icml26/HDTree.png" alt="sym" width="100%">
@@ -433,8 +433,24 @@ Gaps, Three Experiments, and a Roadmap</strong></a></p>
   function normalizeDomains(domStr) {
     return (domStr || '').split(',').map(s => s.trim().toLowerCase()).filter(Boolean);
   }
+  const ROLE_RANK = { first: 0, cofirst: 1, coauthor: 2 };
+  function roleRank(card) {
+    const role = card.dataset.authorRole;
+    return role in ROLE_RANK ? ROLE_RANK[role] : 3;
+  }
+  function applyOrder(filter) {
+    if (filter.toLowerCase() !== 'all' || !cards.length) return;
+    const parent = cards[0].parentNode;
+    const anchor = document.createComment('author-role-anchor');
+    parent.insertBefore(anchor, cards[0]);
+    cards.slice()
+      .sort((a, b) => roleRank(a) - roleRank(b))
+      .forEach(card => parent.insertBefore(card, anchor));
+    anchor.remove();
+  }
   function applyFilter(filter) {
     const key = filter.toLowerCase();
+    applyOrder(filter);
     let visible = 0;
     cards.forEach(card => {
       const domains = normalizeDomains(card.getAttribute('data-domain'));
