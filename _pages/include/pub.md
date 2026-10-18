@@ -335,11 +335,11 @@ Gaps, Three Experiments, and a Roadmap</strong></a></p>
 
 <div class='paper-box' data-author-role="coauthor" data-domain="Graph Neural Networks">
   <div class='paper-box-image'>
-    <span class="conference-label">Preprint</span>
+    <span class="conference-label">IEEE TKDE (Accepted)</span>
     <img src="../images/preprint/NodeReg.png" alt="sym" width="100%">
   </div>
   <div class='paper-box-text'>
-    <p><a href="https://github.com/jingbo02/jingbo02.github.io"><strong>NodeReg: Mitigating the Imbalance and Distribution Shift Effects in Semi-Supervised Node Classification via Norm Consistency</strong></a></p>
+    <p><a href="https://github.com/jingbo02/jingbo02.github.io"><strong>Mitigating Imbalance and Distribution Shift in Node Classification via Norm Consistency</strong></a></p>
     <p>Shenzhi Yang, Jun Xia, <strong><u>Jingbo Zhou</u></strong>, Xingkai Yao, Xiaofang Zhang</p>
   </div>
 </div>

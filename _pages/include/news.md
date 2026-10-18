@@ -11,6 +11,7 @@
 
 <div style="max-height: 200px; overflow-y: auto;">
 <ul>
+    <li><em>2026.10:</em> ✨✨✨ Our paper “Mitigating Imbalance and Distribution Shift in Node Classification via Norm Consistency” has been accepted as a regular paper by <strong>IEEE Transactions on Knowledge and Data Engineering (TKDE)</strong>!</li>
     <li><em>2026.09:</em> ✨✨✨ Our paper “Deep learning coupled with scalable domain-specific structural validation expands RNA virus discovery from metatranscriptomes” has been accepted and published in <strong>Nature Communications</strong>. Congratulations to @Gaoyang Luo!</li>
     <li><em>2026.09:</em> ✨✨✨ Our paper “LoReC: Rethinking Large Language Models for Graph Data Analysis” has been accepted by <strong>NeurIPS 2026</strong>! Congratulations to @Hongyu Zhan!</li>
     <li><em>2026.09:</em> ✨✨✨ One co-authored paper “Graph Transformers and Graph Neural Networks Are Good Teachers for Each Other” has been accepted by <strong>Pattern Recognition</strong>! Congratulations to @Yunfan Liu!</li>
