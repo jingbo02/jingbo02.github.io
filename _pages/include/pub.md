@@ -335,7 +335,7 @@ Gaps, Three Experiments, and a Roadmap</strong></a></p>
 
 <div class='paper-box' data-author-role="coauthor" data-domain="Graph Neural Networks">
   <div class='paper-box-image'>
-    <span class="conference-label">IEEE TKDE (Accepted)</span>
+    <span class="conference-label">IEEE TKDE</span>
     <img src="../images/preprint/NodeReg.png" alt="sym" width="100%">
   </div>
   <div class='paper-box-text'>
