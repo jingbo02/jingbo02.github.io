@@ -8,9 +8,9 @@
 <!-- Publication Statistics Cards -->
 <div class="pub-stats-cards">
   <div class="pub-stats-card">
-    <div class="pub-stats-card__number">19</div>
+    <div class="pub-stats-card__number">20</div>
     <div class="pub-stats-card__label">CCF-A &amp; Nature Portfolio</div>
-    <div class="pub-stats-card__sub">3 first author; 4 co-first author; 12 co-author;</div>
+    <div class="pub-stats-card__sub">3 first author; 4 co-first author; 13 co-author;</div>
   </div>
 
   <div class="pub-stats-card">
