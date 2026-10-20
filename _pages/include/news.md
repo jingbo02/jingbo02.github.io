@@ -17,7 +17,7 @@
     <li><em>2026.09:</em> ✨✨✨ One co-authored paper “Graph Transformers and Graph Neural Networks Are Good Teachers for Each Other” has been accepted by <strong>Pattern Recognition</strong>! Congratulations to @Yunfan Liu!</li>
     <li><em>2026.08:</em> ✨✨✨ Our work MemNovo received the <strong>Outstanding Paper Award</strong> at the RelSciFM Workshop at KDD 2026!</li>
     <li><em>2026.07:</em> ✨✨✨ Our new work Virtual Cell World Model is online!</li> 
-    <li><em>2026.06:</em> 🕶️🕶️🕶️ Invitation to serve as a reviewer for <strong>KDD 2027 and AAAI 2027</strong>.</li> 
+    <li><em>2026.06:</em> 🕶️🕶️🕶️ Invitation to serve as a reviewer for <strong>KDD 2027, AAAI 2027, and ICLR 2027</strong>.</li> 
     <li><em>2026.05:</em> ✨✨✨ Two co-first author paper(VCWM, VirtualCeLLM) and one co-author paper(LoRec) were accepted by <strong>ICML2026 FM4LS & GFM </strong>! Congratulations to @Chang Yu & @Jun Xia!</li> 
   <li>
   <em>2026.05:</em> ✨✨✨ GFG (ICML 2026) was selected as 
